@@ -6,6 +6,7 @@ theme = "ericchi-blue"
   telegram = "https://t.me/EricchiYukia"
   youtube = "https://www.youtube.com/channel/UCG11xx7bQcbXB4ThsgsYs7w"
   gitlab = "https://gitlab.com/Ericchi"
+  twitch = "https://twitch.tv/EricchiYukia"
 
 [menu]
   [[menu.main]]

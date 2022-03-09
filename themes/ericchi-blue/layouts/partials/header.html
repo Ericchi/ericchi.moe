@@ -8,10 +8,9 @@
 	<title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
 
 	<link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />
-
-	{{ with .OutputFormats.Get "rss" -}}
-		{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
-	{{ end -}}
+		{{ with .OutputFormats.Get "rss" -}}
+			{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+		{{ end -}}
 
 </head>
 
@@ -19,7 +18,7 @@
 <div id="page-container">
 	<div id="content-wrap">
 
-{{ partial "nav.html" . }}
+	{{ partial "nav.html" . }}
 
 	<table class="clouds">
 		<tr><td width="100%" background="/images/curtain.png"></td></tr>

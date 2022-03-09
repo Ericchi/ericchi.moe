@@ -36,13 +36,27 @@ body {
   color: rgb(88, 197, 255)
 }
 
+.header {
+
+}
+
 /* NAVIGATION */
+
+@font-face {
+  font-family: TwinkleStar-Regular;
+  src: url(/fonts/TwinkleStar-Regular.woff);
+}
 
 .site-nav {
   display: flex;
   background-color: white;
   width: 100%;
+  font-size: 2rem;
+  font-family: TwinkleStar-Regular;
+  justify-content: center;
+  text-align: center;
 }
+
 
 table.clouds {
   width:100%;
@@ -58,13 +72,14 @@ table.reverse {
 }
 
 .site-nav::before {
-  content: url(/images/logo.png);
-  content: "Placeholder";
+  /*content: url(/images/logo.png);
+  content: "Placeholder";*/
 }
 
 .site-nav a {
   display: block;
-  padding: 1rem;
+  padding: 0.5rem;
+  text-decoration: none;
 }
 
 .site-nav .logo {
@@ -88,6 +103,7 @@ table.reverse {
   .site-nav a {
     padding: 0.5rem;
     padding-left: 0;
+    font-size: 1.5rem;
   }
 
   .content {
