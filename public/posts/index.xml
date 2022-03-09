@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ericchi</title>
+    <link>https://ericchi.moe/posts/</link>
+    <description>Recent content in Posts on Ericchi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 03 Sep 2021 17:27:59 +0700</lastBuildDate><atom:link href="https://ericchi.moe/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post di esempio 2</title>
+      <link>https://ericchi.moe/posts/my-second-post/</link>
+      <pubDate>Fri, 03 Sep 2021 17:27:59 +0700</pubDate>
+      
+      <guid>https://ericchi.moe/posts/my-second-post/</guid>
+      <description>Questo è un altro post di esempio.</description>
+    </item>
+    
+    <item>
+      <title>Post di esempio</title>
+      <link>https://ericchi.moe/posts/my-first-post/</link>
+      <pubDate>Thu, 03 Sep 2020 17:27:59 +0700</pubDate>
+      
+      <guid>https://ericchi.moe/posts/my-first-post/</guid>
+      <description>Questo è un post di esempio.</description>
+    </item>
+    
+  </channel>
+</rss>

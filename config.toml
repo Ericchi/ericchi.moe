@@ -1,0 +1,21 @@
+baseURL = "https://ericchi.moe"
+title = "Ericchi"
+theme = "ericchi-blue"
+
+[social]
+  telegram = "https://t.me/EricchiYukia"
+  youtube = "https://www.youtube.com/channel/UCG11xx7bQcbXB4ThsgsYs7w"
+  gitlab = "https://gitlab.com/Ericchi"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Scarabocchi"
+    url = "/posts"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 20

@@ -1,0 +1,139 @@
+/* LAYOUT */
+
+body {
+  position: relative;
+  color: #333;
+  font-size: 125%;
+  line-height: 1.5;
+  
+  padding: 0;
+  margin: 0;
+  background-image: url(/images/stripes.png);
+}
+
+.content {
+  margin-bottom: 2rem;
+  background-color: white;
+  background-image: url(/images/ribbon.png);
+  background-repeat: no-repeat;
+  background-position-x: -0.1rem;
+  background-position-y: -0.1rem;
+  max-width: 45rem;
+  border: 0.1rem;
+  margin: 2rem auto 2rem auto;
+  align-items: center;
+  padding: 0.5rem 1.5rem 0.5rem 1.5rem;
+  border-style:solid;
+  border-radius: 0.5rem;
+  border-color: transparent;
+  outline-offset: 10rem;
+  border-color: rgb(73, 89, 116);
+}
+
+.content h1 {
+  margin-top:0.5rem;
+  margin-bottom:0.5rem;
+  color: rgb(88, 197, 255)
+}
+
+/* NAVIGATION */
+
+.site-nav {
+  display: flex;
+  background-color: white;
+  width: 100%;
+}
+
+table.clouds {
+  width:100%;
+  height:63px;
+  border: 0;
+  border-spacing: 0;
+  background-image: url(/images/curtain.png);
+}
+
+table.reverse {
+  -webkit-transform: scaleY(-1);
+  transform: scaleY(-1);
+}
+
+.site-nav::before {
+  content: url(/images/logo.png);
+  content: "Placeholder";
+}
+
+.site-nav a {
+  display: block;
+  padding: 1rem;
+}
+
+.site-nav .logo {
+  font-weight: bold;
+  padding-left: 0;
+}
+
+.main-menu {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 48rem) {
+  .site-nav,
+  .main-menu {
+    flex-direction: column;
+  }
+
+  .site-nav a {
+    padding: 0.5rem;
+    padding-left: 0;
+  }
+
+  .content {
+    margin: 0.5rem;
+  }
+}
+
+#footer {   
+  position:absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 9rem;  /* Footer height */
+}
+
+#page-container {
+  position: relative;
+  min-height: 97.77vh;
+}
+
+#content-wrap {
+  padding-bottom: 9rem;    /* Footer height */
+}
+
+.footer-afterimage {
+  background-color: white;
+  /* height: -webkit-fill-available; */
+}
+
+.footer-afterimage::after {
+  background-color: white;
+}
+
+p.footer {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+/* LISTS */
+
+.post-snippet {
+  margin-bottom: 1rem;
+}
+
+.post-snippet h3 {
+  margin-bottom: 0.25rem;
+}
