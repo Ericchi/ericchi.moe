@@ -57,7 +57,6 @@ body {
   text-align: center;
 }
 
-
 table.clouds {
   width:100%;
   height:63px;
@@ -94,10 +93,27 @@ table.reverse {
   padding: 0;
 }
 
+li:before {
+  padding-right: 5px;
+  color: green;
+}
+
+li:nth-child(1):before:active {
+    color: green;
+}
+
+li:nth-child(2):before:active {
+    color: red;
+}
+
+li:nth-child(3):before {
+    color: blue;
+}  
+
 @media screen and (max-width: 48rem) {
   .site-nav,
   .main-menu {
-    flex-direction: column;
+    flex-direction: column; 
   }
 
   .site-nav a {
