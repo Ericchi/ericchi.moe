@@ -51,10 +51,37 @@ body {
   display: flex;
   background-color: white;
   width: 100%;
-  font-size: 2rem;
+  font-size: 2.5rem;
   font-family: TwinkleStar-Regular;
   justify-content: center;
   text-align: center;
+  font-weight: bold;
+}
+
+.logo, a:link a:visited {
+  color: white;
+  text-shadow: 0px 0px 2px rgb(88, 197, 255), 0px 0px 5px rgb(88, 197, 255), 0px 0px 2px rgb(88, 197, 255), 0px 0px 2px rgb(88, 197, 255), 0px 0px 4px rgb(88, 197, 255);
+}
+
+.main-menu, a:active {
+  color: rgb(222, 249, 252);
+}
+
+.nav-element, li:nth-child(1) a:link a:visited {
+  color: white;
+  text-shadow: 0px 0px 2px rgb(192, 116, 255), 0px 0px 2px rgb(192, 116, 255), 0px 0px 2px rgb(192, 116, 255), 0px 0px 2px rgb(192, 116, 255), 0px 0px 4px rgb(192, 116, 255);
+}
+
+.main-menu, li:nth-child(1) a:active {
+  color: rgb(255, 253, 230);
+}
+
+.main-menu, li:nth-child(2) a:link {
+  text-shadow: 0px 0px 2px rgb(255, 88, 205), 0px 0px 2px rgb(255, 88, 205), 0px 0px 2px rgb(255, 88, 205), 0px 0px 2px rgb(255, 88, 205), 0px 0px 4px rgb(255, 88, 205);
+}
+
+.site-nav li:nth-child(2) a:active {
+  color: rgb(255, 231, 248);
 }
 
 table.clouds {
