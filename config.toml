@@ -17,6 +17,12 @@ theme = "ericchi-blue"
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
-    url = "/about"
+    name = "Citazioni"
+    url = "/quotes"
     weight = 20
+
+  [[menu.main]]
+    identifier = "resources"
+    name = "Risorse"
+    url = "/resources"
+    weight = 30
