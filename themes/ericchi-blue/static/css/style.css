@@ -1,3 +1,17 @@
+/* FONTS */
+
+@font-face {
+  font-family: "HelvetiHand";
+  src: url("../fonts/HelvetiHand.woff") format('woff');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Dudu Calligraphy q";
+  src: url("../fonts/Dudu_Calligraphy_q.woff") format('woff');
+  font-weight: normal;
+}
+
 /* LAYOUT */
 
 body {
@@ -12,6 +26,8 @@ body {
 }
 
 .content {
+  font-family: 'Dudu Calligraphy q';
+  font-size: 1.1em;
   margin-bottom: 2rem;
   background-color: white;
   background-image: url(/images/ribbon.png);
@@ -22,7 +38,7 @@ body {
   border: 0.1rem;
   margin: 2rem auto 2rem auto;
   align-items: center;
-  padding: 0.5rem 1.5rem 0.5rem 1.5rem;
+  padding: 0.5rem 1.6rem 0.5rem 1.6rem;
   border-style:solid;
   border-radius: 0.5rem;
   border-color: transparent;
@@ -31,6 +47,7 @@ body {
 }
 
 .content h1 {
+  font-family: 'HelvetiHand';
   margin-top:0.5rem;
   margin-bottom:0.5rem;
   color: rgb(88, 197, 255)
@@ -181,6 +198,7 @@ li:nth-child(3):before {
 }
 
 p.footer {
+  font-family: 'HelvetiHand';
   margin-top: 0;
   margin-bottom: 0;
   padding-top: 1rem;
