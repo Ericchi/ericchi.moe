@@ -1,0 +1,21 @@
+h1 {
+}
+
+#page-container {
+  background-image: linear-gradient(#afede8, #afede8), url(/images/stripes.png);
+  background-blend-mode: hue;
+}
+
+.content {
+  filter: hue-rotate(330deg);
+}
+
+img.content {
+  filter: hue-rotate(-330deg);
+}
+
+/* NAVIGATION */
+
+table.clouds {
+  filter: hue-rotate(330deg);
+}

@@ -1,6 +1,7 @@
 baseURL = "https://ericchi.moe"
 title = "Ericchi"
 theme = "ericchi-blue"
+identifier = "ericchi"
 
 [markup]
   [markup.goldmark]

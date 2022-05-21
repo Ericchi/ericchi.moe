@@ -22,7 +22,6 @@ body {
   
   padding: 0;
   margin: 0;
-  background-image: url(/images/stripes.png);
 }
 
 .content {
@@ -98,7 +97,7 @@ p.footer {
 
 .logo, a:link a:visited {
   color: white;
-  text-shadow: 0px 0px 2px rgb(88, 197, 255), 0px 0px 5px rgb(88, 197, 255), 0px 0px 2px rgb(88, 197, 255), 0px 0px 2px rgb(88, 197, 255), 0px 0px 4px rgb(88, 197, 255);
+  text-shadow: 0px 0px 2px #afede8, 0px 0px 5px #afede8, 0px 0px 2px #afede8, 0px 0px 2px #afede8, 0px 0px 4px #afede8;
 }
 
 .main-menu, a:active {
@@ -107,7 +106,7 @@ p.footer {
 
 .nav-element, li:nth-child(1) a:link a:visited {
   color: white;
-  text-shadow: 0px 0px 2px rgb(192, 116, 255), 0px 0px 2px rgb(192, 116, 255), 0px 0px 2px rgb(192, 116, 255), 0px 0px 2px rgb(192, 116, 255), 0px 0px 4px rgb(192, 116, 255);
+  text-shadow: 0px 0px 2px #bae7ff, 0px 0px 2px #bae7ff, 0px 0px 2px #bae7ff, 0px 0px 2px #bae7ff, 0px 0px 4px #bae7ff;
 }
 
 .main-menu, li:nth-child(1) a:active {
@@ -115,11 +114,11 @@ p.footer {
 }
 
 .main-menu, li:nth-child(2) a:link {
-  text-shadow: 0px 0px 2px rgb(245, 139, 213), 0px 0px 2px rgb(245, 139, 213), 0px 0px 2px rgb(245, 139, 213), 0px 0px 2px rgb(245, 139, 213), 0px 0px 4px rgb(245, 139, 213);
+  text-shadow: 0px 0px 2px #e0daff, 0px 0px 2px #e0daff, 0px 0px 2px #e0daff, 0px 0px 2px #e0daff, 0px 0px 4px #e0daff;
 }
 
 .main-menu, li:nth-child(3) a:link {
-  text-shadow: 0px 0px 2px rgb(255, 88, 205), 0px 0px 2px rgb(255, 88, 205), 0px 0px 2px rgb(255, 88, 205), 0px 0px 2px rgb(255, 88, 205), 0px 0px 4px rgb(255, 88, 205);
+  text-shadow: 0px 0px 2px #ffd1df, 0px 0px 2px #ffd1df, 0px 0px 2px #ffd1df, 0px 0px 2px #ffd1df, 0px 0px 4px #ffd1df;
 }
 
 .site-nav li:nth-child(3) a:active {
@@ -205,6 +204,7 @@ li:nth-child(3):before {
 }
 
 #page-container {
+  background-image: url(/images/stripes.png);
   position: relative;
   min-height: 97.77vh;
 }
