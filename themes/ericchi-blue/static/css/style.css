@@ -44,13 +44,34 @@ body {
   border-color: transparent;
   outline-offset: 10rem;
   border-color: rgb(73, 89, 116);
+  box-shadow: 0em 0em 0.8em rgb(255, 255, 255);
 }
 
 .content h1 {
+  background: repeating-linear-gradient(#ffffff00, white 63px, #e2e2e2 64px, #e2e2e2 66px);
+  background-position-y: -16px;
+
   font-family: 'HelvetiHand';
   margin-top:0.5rem;
   margin-bottom:0.5rem;
-  color: rgb(88, 197, 255)
+  color: rgb(88, 197, 255);
+}
+
+/* Styling specific to a sheet of lined paper */
+p {
+  font-family: 'Dudu Calligraphy q';
+  background: repeating-linear-gradient(#ffffff00, white 31px, #e2e2e2 32px, #e2e2e2 33px);
+  background-position-y: 26px;
+
+  padding: 0;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+
+p.footer {
+  background: none;
 }
 
 .header {
@@ -91,6 +112,10 @@ body {
 
 .main-menu, li:nth-child(1) a:active {
   color: rgb(255, 253, 230);
+}
+
+.main-menu, li:nth-child(2) a:link {
+  text-shadow: 0px 0px 2px rgb(245, 139, 213), 0px 0px 2px rgb(245, 139, 213), 0px 0px 2px rgb(245, 139, 213), 0px 0px 2px rgb(245, 139, 213), 0px 0px 4px rgb(245, 139, 213);
 }
 
 .main-menu, li:nth-child(3) a:link {

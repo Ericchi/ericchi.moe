@@ -2,6 +2,11 @@ baseURL = "https://ericchi.moe"
 title = "Ericchi"
 theme = "ericchi-blue"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [social]
   telegram = "https://t.me/EricchiYukia"
   youtube = "https://www.youtube.com/channel/UCG11xx7bQcbXB4ThsgsYs7w"
