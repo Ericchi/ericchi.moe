@@ -5,6 +5,10 @@ body {
   cursor: url("../cursors/ribbonarrow_pink.png"), auto;
 }
 
+a {
+  cursor: url("../cursors/ribbonhand_pink.png/"), pointer;
+}
+
 .site-nav li:nth-child(3) a {
   color: hsl(342, 100%, 97%);
 }

@@ -1,8 +1,12 @@
 h1 {
 }
 
-body {
+body, .footer-afterimage {
   cursor: url("../cursors/ribbonarrow_purple.png"), auto;
+}
+
+a {
+  cursor: url("../cursors/ribbonhand_purple.png/"), pointer;
 }
 
 .main-menu, li:nth-child(2) a {

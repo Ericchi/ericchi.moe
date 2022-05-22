@@ -1,8 +1,8 @@
 ---
-title: "Post di esempio"
-date: 2020-09-03T17:27:59+07:00
+title: "Primo post"
+date: 2022-05-22T16:28:08+02:00
 type: mylayout
 layout: posts-color
 ---
 
-Questo è un post di esempio.
+Questo è il primo post del blog. Mi serve solo per controllare che il blog funzioni correttamente.

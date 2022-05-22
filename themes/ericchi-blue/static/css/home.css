@@ -5,6 +5,10 @@ body {
   cursor: url("../cursors/ribbonarrow_teal.png"), auto;
 }
 
+a {
+  cursor: url("../cursors/ribbonhand_teal.png/"), pointer;
+}
+
 .logo, a:link a:visited {
   color: hsl(175, 63%, 96%);
 }

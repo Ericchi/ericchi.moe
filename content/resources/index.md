@@ -5,4 +5,6 @@ title: About
 type: mylayout
 layout: resources-color
 ---
-# Titolo
+# Risorse
+
+Qui aggiungerò le cose che ho fatto o i link alle cose che utilizzo e consiglio.

@@ -1,3 +1,11 @@
+body {
+  cursor: url("../cursors/ribbonarrow_blue.png"), auto;
+}
+
+a {
+  cursor: url("../cursors/ribbonhand_blue.png/"), pointer;
+}
+
 .main-menu, li:nth-child(1) a {
     color: hsl(201, 100%, 96%) !important;
-  }
+}
