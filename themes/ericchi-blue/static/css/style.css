@@ -188,16 +188,33 @@ li:nth-child(3):before {
     color: blue;
 }  
 
+
+/* Barra mobile */
 @media screen and (max-width: 48rem) {
-  .site-nav,
-  .main-menu {
-    flex-direction: column; 
+  .site-nav, .main-menu {
+    /*flex-direction: column; */
   }
 
   .site-nav a {
     padding: 0.5rem;
-    padding-left: 0;
-    font-size: 1.5rem;
+    padding-left: 0.2em;
+    font-size: 2rem;
+  }
+
+  .content {
+    margin: 0.5rem;
+  }
+}
+
+@media screen and (max-width: 566px) {
+  .site-nav, .main-menu {
+    flex-direction: column;
+  }
+
+  .site-nav a {
+    padding: 0.5rem;
+    padding-left: 0.2em;
+    font-size: 2rem;
   }
 
   .content {
@@ -248,4 +265,22 @@ p.footer {
 
 .post-snippet h3 {
   margin-bottom: 0.25rem;
+}
+
+@media only screen and (max-width:501px){
+  img {
+    vertical-align:text-top;
+  }
+  img.desktop-only-right {
+    text-align: center;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+  }
+}
+
+@media only screen and (min-width:501px){
+  .desktop-only-right {
+    float: right;
+  }
 }
