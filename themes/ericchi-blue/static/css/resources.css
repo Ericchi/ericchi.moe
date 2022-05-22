@@ -1,6 +1,14 @@
 h1 {
 }
 
+body {
+  cursor: url("../cursors/ribbonarrow_pink.png"), auto;
+}
+
+.site-nav li:nth-child(3) a {
+  color: hsl(342, 100%, 97%);
+}
+
 #page-container {
   background-image: linear-gradient(#ffd1df, #ffd1df), url(/images/stripes.png);
   background-blend-mode: hue;

@@ -13,6 +13,7 @@ identifier = "ericchi"
   youtube = "https://www.youtube.com/channel/UCG11xx7bQcbXB4ThsgsYs7w"
   gitlab = "https://gitlab.com/Ericchi"
   twitch = "https://twitch.tv/EricchiYukia"
+  myanimelist = "https://myanimelist.net/profile/EricchiYukia"
 
 [menu]
   [[menu.main]]

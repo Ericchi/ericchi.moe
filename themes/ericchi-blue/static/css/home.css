@@ -1,6 +1,14 @@
 h1 {
 }
 
+body {
+  cursor: url("../cursors/ribbonarrow_teal.png"), auto;
+}
+
+.logo, a:link a:visited {
+  color: hsl(175, 63%, 96%);
+}
+
 #page-container {
   background-image: linear-gradient(#afede8, #afede8), url(/images/stripes.png);
   background-blend-mode: hue;
