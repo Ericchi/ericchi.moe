@@ -6,7 +6,7 @@ body, .footer-afterimage {
 }
 
 a {
-  cursor: url("../cursors/ribbonhand_purple.png/"), pointer;
+  cursor: url("../cursors/ribbonhand_purple.png"), pointer;
 }
 
 .main-menu, li:nth-child(2) a {

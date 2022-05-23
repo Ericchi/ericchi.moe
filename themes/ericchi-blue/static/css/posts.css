@@ -3,7 +3,7 @@ body {
 }
 
 a {
-  cursor: url("../cursors/ribbonhand_blue.png/"), pointer;
+  cursor: url("../cursors/ribbonhand_blue.png"), pointer;
 }
 
 .main-menu, li:nth-child(1) a {

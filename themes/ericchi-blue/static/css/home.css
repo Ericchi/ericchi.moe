@@ -6,7 +6,7 @@ body {
 }
 
 a {
-  cursor: url("../cursors/ribbonhand_teal.png/"), pointer;
+  cursor: url("../cursors/ribbonhand_teal.png"), pointer;
 }
 
 .logo, a:link a:visited {
