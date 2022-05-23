@@ -5,7 +5,7 @@ layout: quotes-color
 
 # Citazioni
 
-Qui aggiungerò le frasi che mi sono piaciute di più durante le mie avventure, sia mie che dei miei amici!
+Qui metterò tutte le frasi che mi sono piaciute di più durante le mie avventure, con i rispettivi autori.
 
 &nbsp;
 
