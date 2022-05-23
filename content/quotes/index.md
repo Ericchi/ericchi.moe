@@ -7,6 +7,8 @@ layout: quotes-color
 
 Qui aggiungerò le frasi che più mi sono piaciute durante le mie avventure online, sia mie che dei miei amici!
 
+&nbsp;
+
 <hr>
 
 &nbsp;
