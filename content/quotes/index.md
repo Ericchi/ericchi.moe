@@ -9,7 +9,7 @@ Qui metterò tutte le frasi che mi sono piaciute di più durante le mie avventur
 
 &nbsp;
 
-<p class="center">~ ~ ~</p>
+<p class="center">~ ~ ~ ° ° ° ~ ~ ~</p>
 
 &nbsp;
 
