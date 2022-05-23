@@ -13,7 +13,7 @@ Qui aggiungerò le frasi che più mi sono piaciute durante le mie avventure onli
 
 &nbsp;
 
-Famiglia Ushiromiya: “Kinzo, esci. Si sono riuniti tutti sull'isola di Rokkenjima dopo un anno e tu te ne stai chiuso in camera?”
+Famiglia Ushiromiya: “Kinzo, esci. Sono tutti qui riuniti sull'isola di Rokkenjima dopo un anno e tu te ne stai chiuso in camera?”
 
 Kinzo: “Ma sto cacando...!”
 <p class="right">- Glorious Lance, 20 maggio 2022</p>
