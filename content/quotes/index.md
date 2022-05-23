@@ -5,7 +5,7 @@ layout: quotes-color
 
 # Citazioni
 
-Qui aggiungerò le frasi che più mi sono piaciute durante le mie avventure online, sia mie che dei miei amici!
+Qui aggiungerò le frasi che mi sono piaciute di più durante le mie avventure, sia mie che dei miei amici!
 
 &nbsp;
 
