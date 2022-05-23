@@ -9,7 +9,7 @@ Qui aggiungerò le frasi che più mi sono piaciute durante le mie avventure onli
 
 &nbsp;
 
-<hr>
+<p class="center">~ ~ ~</p>
 
 &nbsp;
 
