@@ -49,7 +49,7 @@ body {
 }
 
 .content h1 {
-  background: repeating-linear-gradient(#ffffff00, white 63px, #e2e2e2 64px, #e2e2e2 66px);
+  background: repeating-linear-gradient(#ffffff00, #ffffff00 62px, white 63px, #e2e2e2 64px, #e2e2e2 66px);
   background-position-y: -16px;
 
   font-family: 'HelvetiHand';
@@ -61,7 +61,7 @@ body {
 /* Styling specific to a sheet of lined paper */
 p {
   font-family: 'Dudu Calligraphy q';
-  background: repeating-linear-gradient(#ffffff00, white 31px, #e2e2e2 32px, #e2e2e2 33px);
+  background: repeating-linear-gradient(#ffffff00, #ffffff00 30px, white 31px, #e2e2e2 32px, #e2e2e2 33px);
   background-position-y: 26px;
 
   padding: 0;
