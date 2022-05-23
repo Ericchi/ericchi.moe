@@ -70,6 +70,10 @@ p {
   margin-left: 0px;
 }
 
+.right {
+  text-align: right;
+}
+
 
 p.footer {
   background: none;
