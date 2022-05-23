@@ -9,5 +9,5 @@ Qui aggiungerò le frasi che più mi sono piaciute durante le mie avventure onli
 
 &nbsp;
 
-“Quel tizio era psicopazzo”
+“Quel tizio era psicopazzo.”
 <p class="right">- Daneel, 23 maggio 2022</p>
