@@ -7,6 +7,8 @@ layout: quotes-color
 
 Qui aggiungerò le frasi che più mi sono piaciute durante le mie avventure online, sia mie che dei miei amici!
 
+&nbsp;
+
 Famiglia Ushiromiya: “Kinzō, esci. Si sono riuniti tutti sull'isola di Rokkenjima dopo un anno e tu te ne stai chiuso in camera?”
 Kinzō: “Ma sto cacando...”
 <p class="right">- Glorious Lance, 20 maggio 2022</p>
