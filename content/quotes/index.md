@@ -14,7 +14,7 @@ Qui metterò tutte le frasi che mi sono piaciute di più durante le mie avventur
 
 &nbsp;
 
-“<ruby>頑張<rp>(</rp><rt>ganba</rt><rp>)</rp></ruby>rizzati!”
+“<ruby>頑張<rp>(</rp><rt>がんば</rt><rp>)</rp></ruby>rizzati!”
 <p class="right">- Ericchi, 2019 circa</p>
 
 &nbsp;
