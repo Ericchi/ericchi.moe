@@ -123,7 +123,7 @@ p.footer {
   text-shadow: 0px 0px 2px #afede8, 0px 0px 5px #afede8, 0px 0px 2px #afede8, 0px 0px 2px #afede8, 0px 0px 4px hsl(175, 63%, 50%);
 }
 
-.main-menu, a:active {
+.site-nav a:active {
   color: hsl(175, 63%, 96%);
 }
 
@@ -132,19 +132,19 @@ p.footer {
   text-shadow: 0px 0px 2px #bae7ff, 0px 0px 2px #bae7ff, 0px 0px 2px #bae7ff, 0px 0px 2px #bae7ff, 0px 0px 4px hsl(201, 100%, 50%);
 }
 
-.main-menu, li:nth-child(1) a:active {
+.main-menu li:nth-child(1) a:active {
   color: hsl(201, 100%, 96%);
 }
 
-.main-menu, li:nth-child(2) a:link {
+.main-menu li:nth-child(2) a:link {
   text-shadow: 0px 0px 2px #e0daff, 0px 0px 2px #e0daff, 0px 0px 2px #e0daff, 0px 0px 2px #e0daff, 0px 0px 4px hsl(250, 100%, 60%);
 }
 
-.main-menu, li:nth-child(2) a:active {
+.main-menu li:nth-child(2) a:active {
   color: hsl(250, 100%, 97%);
 }
 
-.main-menu, li:nth-child(3) a:link {
+.main-menu li:nth-child(3) a:link {
   text-shadow: 0px 0px 2px #ffd1df, 0px 0px 2px #ffd1df, 0px 0px 2px #ffd1df, 0px 0px 2px #ffd1df, 0px 0px 4px hsl(342, 100%, 60%);
 }
 
@@ -152,8 +152,12 @@ p.footer {
   color: hsl(342, 100%, 97%);
 }
 
-a {
+a, a:active {
   color: #58c5ff;
+}
+
+.content a:active {
+  text-shadow: 0px 0px 3px #58c5ff;
 }
 
 table.clouds {
