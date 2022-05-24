@@ -15,7 +15,7 @@ Qui metterò tutte le frasi che mi sono piaciute di più durante le mie avventur
 &nbsp;
 
 “<ruby>頑張<rp>(</rp><rt>ganba</rt><rp>)</rp></ruby>rizzati!”
-<p class="right">- Ericchi, 2019 circa</p>
+<p class="right">- Ericchi, 4 settembre 2020</p>
 
 &nbsp;
 
