@@ -10,7 +10,7 @@ Ciao, sono Ericchi!
 
 &nbsp;
 
-<img class="desktop-only-right drawing" style="width: 12em; background-clip: content-box; shape-outside: polygon(30% 34%, 7% 20%, 30% 0, 71% 0, 86% 18%, 87% 43%, 100% 48%, 73% 100%, 36% 100%, 36% 69%, 0 61%, 3% 50%);" src="portrait.png">
+<img class="desktop-only-right drawing" style="width: 12em; background-clip: content-box; shape-outside: polygon(30% 34%, 7% 20%, 30% 0, 71% 0, 86% 18%, 87% 43%, 100% 48%, 73% 100%, 36% 100%, 36% 69%, 0 61%, 3% 50%);" src="images/portrait.png">
 
 Vi porgo il benvenuto nella mia umile dimora virtuale. Questo è il mio sito web personale e qui nella sezione “[Scarabocchi](posts/)” posto tutto ciò che mi passa per la testa e che vorrei condividere con il mondo.
 
