@@ -14,8 +14,13 @@ Qui metterò tutte le frasi che mi sono piaciute di più durante le mie avventur
 
 &nbsp;
 
-“<ruby>頑張<rp>(</rp><rt>ganba</rt><rp>)</rp></ruby>rizzati!”
-<p class="right">- Ericchi, 4 settembre 2020</p>
+“Klonoa è un gioco simile a Super Mario, ma con la traUma”
+<p class="right">- Ericchi, 13 luglio 2022</p>
+
+&nbsp;
+
+“Quel tizio era psicopazzo.”
+<p class="right">- Daneel, 23 maggio 2022</p>
 
 &nbsp;
 
@@ -26,10 +31,5 @@ Kinzo: “Sto cacando...!”
 
 &nbsp;
 
-“Quel tizio era psicopazzo.”
-<p class="right">- Daneel, 23 maggio 2022</p>
-
-&nbsp;
-
-“Klonoa è un gioco simile a Super Mario, ma con la traUma”
-<p class="right">- Ericchi, 13 luglio 2022</p>
+“<ruby>頑張<rp>(</rp><rt>ganba</rt><rp>)</rp></ruby>rizzati!”
+<p class="right">- Ericchi, 4 settembre 2020</p>
