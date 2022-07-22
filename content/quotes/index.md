@@ -14,22 +14,27 @@ Qui metterò tutte le frasi che mi sono piaciute di più durante le mie avventur
 
 &nbsp;
 
-“Klonoa è un gioco simile a Super Mario, ma con la traUma”
+«“Strappare i petali” non ci sta in questa textbox. Magari potrei scrivere “Spetalare“ e chiedere all'Accademia della Crusca se me lo accetta...»
+<p class="right">- Ericchi, 22 luglio 2022</p>
+
+&nbsp;
+
+«Klonoa è un gioco simile a Super Mario, ma con la traUma»
 <p class="right">- Ericchi, 13 luglio 2022</p>
 
 &nbsp;
 
-“Quel tizio era psicopazzo.”
+«Quel tizio era psicopazzo.»
 <p class="right">- Daneel, 23 maggio 2022</p>
 
 &nbsp;
 
-Famiglia Ushiromiya: “Kinzo, esci. Sono tutti qui riuniti sull'isola di Rokkenjima dopo un anno e tu te ne stai chiuso in camera?”
+Famiglia Ushiromiya: «Kinzo, esci. Sono tutti qui riuniti sull'isola di Rokkenjima dopo un anno e tu te ne stai chiuso in camera?»
 
-Kinzo: “Sto cacando...!”
+Kinzo: «Sto cacando...!»
 <p class="right">- Glorious Lance, 20 maggio 2022</p>
 
 &nbsp;
 
-“<ruby>頑張<rp>(</rp><rt>ganba</rt><rp>)</rp></ruby>rizzati!”
+«<ruby>頑張<rp>(</rp><rt>ganba</rt><rp>)</rp></ruby>rizzati!»
 <p class="right">- Ericchi, 4 settembre 2020</p>
