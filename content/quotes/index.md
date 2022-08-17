@@ -14,6 +14,11 @@ Qui metterò tutte le frasi che mi sono piaciute di più durante le mie avventur
 
 &nbsp;
 
+«<ruby>時間<rp>(</rp><rt>jikan</rt><rp>)</rp>が<rp>(</rp><rt>ga</rt><rp>)</rp>ない<rp>(</rp><rt>nai</rt><rp>)</rp></ruby>。 Mi sa che morirai.»
+<p class="right">- Ericchi, 17 agosto 2022</p>
+
+&nbsp;
+
 «“Strappare i petali” non ci sta in questa textbox. Magari potrei scrivere “Spetalare“ e chiedere all'Accademia della Crusca se me lo accetta...»
 <p class="right">- Ericchi, 22 luglio 2022</p>
 
