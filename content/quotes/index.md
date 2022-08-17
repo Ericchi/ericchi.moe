@@ -15,7 +15,7 @@ Qui metterò tutte le frasi che mi sono piaciute di più durante le mie avventur
 &nbsp;
 
 «<ruby>時間<rp>(</rp><rt>jikan</rt><rp>)</rp>が<rp>(</rp><rt>ga</rt><rp>)</rp>ない<rp>(</rp><rt>nai</rt><rp>)</rp></ruby>、 Mi sa che morirai.»
-<p class="right">- Ericchi, 17 agosto 2022, osservando un'amica giocare a <ruby>ナナシ<rp>(</rp><rt>nanashi</rt><rp>)</rp>ノ<rp>(</rp><rt>no</rt><rp>)</rp>ゲエム<rp>(</rp><rt>geemu</rt><rp>)</rp></p></ruby>
+<p class="right">- Ericchi, 17 agosto 2022, osservando un'amica giocare a <ruby>ナナシ<rp>(</rp><rt>nanashi</rt><rp>)</rp>ノ<rp>(</rp><rt>no</rt><rp>)</rp>ゲエム<rp>(</rp><rt>geemu</rt><rp>)</rp></ruby></p>
 
 &nbsp;
 
@@ -37,7 +37,7 @@ Qui metterò tutte le frasi che mi sono piaciute di più durante le mie avventur
 Famiglia Ushiromiya: «Kinzo, esci. Sono tutti qui riuniti sull'isola di Rokkenjima dopo un anno e tu te ne stai chiuso in camera?»
 
 Kinzo: «Sto cacando...!»
-<p class="right">- Glorious Lance, 20 maggio 2022, discutendo di <ruby>うみねこ<rp>(</rp><rt>umineko</rt><rp>)</rp>の<rp>(</rp><rt>no</rt><rp>)</rp>なく<rp>(</rp><rt>naku</rt><rp>)</rp>頃<rp>(</rp><rt>koro</rt><rp>)</rp></ruby>に<rp>(</rp><rt>ni</rt><rp>)</rp></ruby></p>
+<p class="right">- Glorious Lance, 20 maggio 2022, discutendo di <ruby>うみねこ<rp>(</rp><rt>umineko</rt><rp>)</rp>の<rp>(</rp><rt>no</rt><rp>)</rp>なく<rp>(</rp><rt>naku</rt><rp>)</rp>頃<rp>(</rp><rt>koro</rt><rp>)</rp>に<rp>(</rp><rt>ni</rt><rp>)</rp></ruby></p>
 
 &nbsp;
 
