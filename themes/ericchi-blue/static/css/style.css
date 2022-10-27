@@ -54,18 +54,8 @@ body {
   box-shadow: 0em 0em 0.8em rgb(255, 255, 255);
 }
 
-.content h1 {
-  background: repeating-linear-gradient(#ffffff00, #ffffff00 62px, white 63px, #e2e2e2 64px, #e2e2e2 66px);
-  background-position-y: -16px;
-
-  font-family: 'HelvetiHand', 'aqua_pfont';
-  margin-top:0.5rem;
-  margin-bottom:0.5rem;
-  color: rgb(88, 197, 255);
-}
-
 /* Styling specific to a sheet of lined paper */
-p {
+p, li {
   font-family: 'Dudu Calligraphy q', 'aqua_pfont';
   background: repeating-linear-gradient(#ffffff00, #ffffff00 30px, white 31px, #e2e2e2 32px, #e2e2e2 33px);
   background-position-y: -40px;
@@ -74,7 +64,16 @@ p {
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 0px;
+}
 
+.content h1, h2 {
+  background: repeating-linear-gradient(#ffffff00, #ffffff00 62px, white 63px, #e2e2e2 64px, #e2e2e2 66px);
+  background-position-y: -16px;
+
+  font-family: 'HelvetiHand', 'aqua_pfont';
+  margin-top:0.5rem;
+  margin-bottom:0.5rem;
+  color: rgb(88, 197, 255);
 }
 
 .center {
@@ -214,7 +213,7 @@ li:nth-child(3):before {
 }  
 
 
-/* Barra mobile */
+/* Mobile bar */
 @media screen and (max-width: 48rem) {
   .site-nav, .main-menu {
     /*flex-direction: column; */
