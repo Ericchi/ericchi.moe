@@ -66,7 +66,7 @@ p, li {
   margin-left: 0px;
 }
 
-.content h1, h2 {
+.content h1 {
   background: repeating-linear-gradient(#ffffff00, #ffffff00 62px, white 63px, #e2e2e2 64px, #e2e2e2 66px);
   background-position-y: -16px;
 
@@ -90,6 +90,16 @@ p, li {
   text-overflow: clip;
 }
 
+hr {
+  background: repeating-linear-gradient(#ffffff00, #ffffff00 62px, white 63px, #e2e2e2 64px, #e2e2e2 66px);
+  background-position-y: -40px;
+  border-top: 0.1rem;
+  border-bottom:0rem;
+  margin-top:0.55rem;
+  margin-bottom:0.55rem;
+  border-color: rgb(73, 89, 116);
+  border-style:dashed;
+}
 
 p.footer {
   background: none;
