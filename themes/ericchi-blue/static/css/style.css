@@ -46,16 +46,16 @@ body {
   margin: 2rem auto 2rem auto;
   align-items: center;
   padding: 0.5rem 1.6rem 0.5rem 1.6rem;
-  border-style:solid;
+  /*border-style:solid;*/
   border-radius: 0.5rem;
   border-color: transparent;
   outline-offset: 10rem;
   border-color: rgb(73, 89, 116);
-  box-shadow: 0em 0em 0.8em rgb(255, 255, 255);
+  box-shadow: 0em 0em 0.8em #4a5a7466;
 }
 
 /* Styling specific to a sheet of lined paper */
-p, li {
+p, main li {
   font-family: 'Dudu Calligraphy q', 'aqua_pfont';
   background: repeating-linear-gradient(#ffffff00, #ffffff00 30px, white 31px, #e2e2e2 32px, #e2e2e2 33px);
   background-position-y: -40px;
