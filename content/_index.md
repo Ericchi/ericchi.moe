@@ -24,4 +24,4 @@ Mi presento, sono un'amante di tutto ciò che è magico e trovo che l'informatic
 
 &nbsp;
 
-Nella vita mi piace guardare anime, giocare ai videogiochi e quando voglio essere produttiva studio [l'antica lingua dei Kami](https://it.wikipedia.org/wiki/Lingua_giapponese) per essere in grado di esercitare la magia della traduzione nel gruppo di fansub di cui faccio parte: [Majotachi no Sub](https://majotachinosub.com).
+Nella vita mi piace guardare anime, giocare ai videogiochi e quando voglio essere produttiva studio [l'antica lingua dei Kami](https://it.wikipedia.org/wiki/Lingua_giapponese).
