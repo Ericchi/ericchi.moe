@@ -90,6 +90,15 @@ p, main li {
   text-overflow: clip;
 }
 
+ul {
+  font-family: 'aqua_pfont';
+  list-style-type: "＊ ";
+}
+
+li::marker {
+  font-family: 'aqua_pfont';
+}
+
 hr {
   background: repeating-linear-gradient(#ffffff00, #ffffff00 62px, white 63px, #e2e2e2 64px, #e2e2e2 66px);
   background-position-y: -40px;
