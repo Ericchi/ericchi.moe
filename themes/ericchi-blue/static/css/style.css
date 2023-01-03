@@ -37,7 +37,7 @@ body {
   font-size: 1.1em;
   margin-bottom: 2rem;
   background-color: white;
-  background-image: url(../images/ribbon.png);
+  background-image: url(/images/ribbon.png);
   background-repeat: no-repeat;
   background-position-x: -0.1rem;
   background-position-y: -0.1rem;
@@ -46,16 +46,16 @@ body {
   margin: 2rem auto 2rem auto;
   align-items: center;
   padding: 0.5rem 1.6rem 0.5rem 1.6rem;
-  border-style:solid;
+  /*border-style:solid;*/
   border-radius: 0.5rem;
   border-color: transparent;
   outline-offset: 10rem;
   border-color: rgb(73, 89, 116);
-  box-shadow: 0em 0em 0.8em rgb(255, 255, 255);
+  box-shadow: 0em 0em 0.8em #4a5a7466;
 }
 
 /* Styling specific to a sheet of lined paper */
-p, li {
+p, main li {
   font-family: 'Dudu Calligraphy q', 'aqua_pfont';
   background: repeating-linear-gradient(#ffffff00, #ffffff00 30px, white 31px, #e2e2e2 32px, #e2e2e2 33px);
   background-position-y: -40px;
@@ -274,14 +274,13 @@ li:nth-child(3):before {
 }
 
 #page-container {
-  background-image: url(../images/stripes.png);
+  background-image: url(/images/stripes.png);
   position: relative;
   min-height: 97.77vh;
 }
 
 #content-wrap {
-  padding-top: 1rem;
-  padding-bottom: 3rem;    /* Footer height */
+  padding-bottom: 9rem;    /* Footer height */
 }
 
 .footer-afterimage {
