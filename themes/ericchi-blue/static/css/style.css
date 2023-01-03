@@ -90,12 +90,12 @@ p, main li {
   text-overflow: clip;
 }
 
-ul {
+.content ul {
   font-family: 'aqua_pfont';
   list-style-type: "＊ ";
 }
 
-li::marker {
+.content li::marker {
   font-family: 'aqua_pfont';
 }
 
