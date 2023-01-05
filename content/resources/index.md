@@ -16,4 +16,4 @@ Potete trovarlo su [questo canale Telegram](https://t.me/strawberrypanicfansubit
 
 - Nel 2022 ho creato il sito web di [Majotachi no Sub](https://majotachinosub.com) e ho collaborato con loro per qualche mese in alcuni progetti, tra cui la [traduzione italiana del videogioco Ib](https://majotachinosub.com/videogiochi/ib.html).
 
-- A fine 2022 - inizio 2023 sono andata a scuola di .NET e C# da [Generation Italy](https://italy.generation.org)! Potete andare a vedere le repository con i progettini che ho fatto durante il corso [a questo link](https://github.com/DOITA07-Ericchi)!
+- A fine 2022 - inizio 2023 sono andata a scuola di .NET e C# da [Generation](https://italy.generation.org). Potete andare a vedere le repository con i progettini che ho fatto durante il corso [a questo link](https://github.com/DOITA07-Ericchi).
