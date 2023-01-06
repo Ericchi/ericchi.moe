@@ -1,6 +1,6 @@
 baseURL = "https://mynewhugosite.com"
 title = "My New Hugo Site"
-theme = "hugo-starter"
+theme = "ericchi-blue"
 
 [menu]
   [[menu.main]]
