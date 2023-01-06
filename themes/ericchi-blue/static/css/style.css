@@ -134,6 +134,7 @@ p.footer {
   justify-content: center;
   text-align: center;
   font-weight: bold;
+  padding-bottom: 0;
 }
 
 .logo, a:link a:visited {
