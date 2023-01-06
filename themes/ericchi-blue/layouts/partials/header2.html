@@ -1,17 +1,19 @@
 		{{ with .OutputFormats.Get "rss" -}}
-			{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+		{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 		{{ end -}}
 
-</head>
+		</head>
 
-<body>
-<div id="page-container">
-	<div id="content-wrap">
+		<body>
+			<div id="page-container">
+				<div id="content-wrap">
 
-	{{ partial "nav.html" . }}
-	<table class="clouds">
-		<tr><td width="100%" background="/images/curtain.png"></td></tr>
-	</table>
-	<!-- Sì, è una tabella. Non un div. Mi ricorda come facevo i siti quando ero piccola e ho voluto mantenere questo pezzo di me anche in un sito web moderno. -->
+					{{ partial "nav.html" . }}
+					<table class="clouds">
+						<tr>
+							<td></td>
+						</tr>
+					</table>
+					<!-- Sì, è una tabella. Non un div. Mi ricorda come facevo i siti quando ero piccola e ho voluto mantenere questo pezzo di me anche in un sito web moderno. -->
 
-	<main class="content">
+					<main class="content">

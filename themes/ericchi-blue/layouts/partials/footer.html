@@ -1,22 +1,25 @@
+				</main>
 
-</main>
-	
-<footer id="footer">
-<table class="clouds reverse">
-	<tr><td></td></tr>
-</table>
-<div class="footer-afterimage">
-	<p class="footer">
-		<a href="{{- .Site.Social.telegram -}}"><img src="/images/telegram.png" /></a>
-		<a href="{{- .Site.Social.youtube -}}"><img src="/images/youtube.png" /></a>
-		<a href="{{- .Site.Social.twitch -}}"><img src="/images/twitch.png" /></a>
-		<a href="{{- .Site.Social.github -}}"><img src="/images/github.png" /></a>
-		<a href="{{- .Site.Social.myanimelist -}}"><img src="/images/myanimelist.png" /></a>
-		<br />
-		&copy;{{ dateFormat "2006" now }} {{ .Site.Title }}
-	</p>
-</div>
-</footer>
-</div>
-</body>
+				<footer id="footer">
+					<table class="clouds reverse">
+						<tr>
+							<td></td>
+						</tr>
+					</table>
+					<div class="footer-afterimage">
+						<p class="footer">
+							<a href="{{- .Site.Social.telegram -}}"><img src="/images/telegram.png" alt="Telegram"></a>
+							<a href="{{- .Site.Social.youtube -}}"><img src="/images/youtube.png" alt="YouTube"></a>
+							<a href="{{- .Site.Social.twitch -}}"><img src="/images/twitch.png" alt="Twitch"></a>
+							<a href="{{- .Site.Social.github -}}"><img src="/images/github.png" alt="GitHub"></a>
+							<a href="{{- .Site.Social.myanimelist -}}"><img src="/images/myanimelist.png" alt="MyAnimeList"></a>
+							<br />
+							&copy;{{ dateFormat "2006" now }} {{ .Site.Title }}
+						</p>
+					</div>
+				</footer>
+			</div>
+		</div>
+	</body>
+
 </html>
