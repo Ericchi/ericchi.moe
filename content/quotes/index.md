@@ -14,6 +14,11 @@ Qui metterò tutte le frasi che mi sono piaciute di più durante le mie avventur
 
 &nbsp;
 
+«Ma tu guardi solo o gay o omosessuali»
+<p class="right">- Mia nonna, 25 gennaio 2023, mentre guardavo Drag Race</p>
+
+&nbsp;
+
 «<ruby>時間<rp>(</rp><rt>jikan</rt><rp>)</rp>が<rp>(</rp><rt>ga</rt><rp>)</rp>ない<rp>(</rp><rt>nai</rt><rp>)</rp></ruby>、 mi sa che morirai.»
 <p class="right">- Ericchi, 17 agosto 2022, osservando un'amica giocare a <ruby>ナナシ<rp>(</rp><rt>nanashi</rt><rp>)</rp>ノ<rp>(</rp><rt>no</rt><rp>)</rp>ゲエム<rp>(</rp><rt>geemu</rt><rp>)</rp></ruby></p>
 
