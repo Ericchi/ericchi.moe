@@ -15,7 +15,7 @@ Qui metterò tutte le frasi che mi sono piaciute di più durante le mie avventur
 &nbsp;
 
 «Ma tu guardi solo o gay o omosessuali»
-<p class="right">- Mia nonna, 25 gennaio 2023, mentre guardavo Drag Race</p>
+<p class="right">- Mia nonna, 25 gennaio 2023, guardando Drag Race</p>
 
 &nbsp;
 
