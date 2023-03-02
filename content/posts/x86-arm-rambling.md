@@ -1,8 +1,8 @@
 ---
 title: "Un rambling sulla magia dei computer e le bacchette sbagliate"
 date: 2022-10-15T01:05:00+02:00
-type: mylayout
 layout: posts-color
+draft: false
 ---
 
 Per qualcuno che mi conosce da tanto tempo, non sarebbe una sorpresa se io all'improvviso e in una situazione qualsiasi me ne uscissi con frasi da matta e assolutamente off-topic del calibro di «L'informatica è una forma di magia e la programmazione è l'invocazione dei suoi incantesimi!» (Cosa che tra l'altro credo fermamente.

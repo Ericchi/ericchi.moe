@@ -1,8 +1,7 @@
 ---
 title: "Trama di ogni singolo RPG Square Enix"
-date: 2023-03-27T17:25:00+02:00
-type: mylayout
-layout: posts-color
+date: 2023-03-02T17:58:36+01:00
+draft: false
 ---
 
 - Ci sono quattro cristalli che governano il mondo. L'armonia dei cristalli è sacra e vengono venerati come divinità.
