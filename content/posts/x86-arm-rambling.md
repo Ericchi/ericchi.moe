@@ -6,7 +6,7 @@ draft: false
 ---
 
 Per qualcuno che mi conosce da tanto tempo, non sarebbe una sorpresa se io all'improvviso e in una situazione qualsiasi me ne uscissi con frasi da matta e assolutamente off-topic del calibro di «L'informatica è una forma di magia e la programmazione è l'invocazione dei suoi incantesimi!» (Cosa che tra l'altro credo fermamente.
-Chi mi conosce bene sa anche che ho un certo favoritismo nei confronti del mondo di Linux perché se l'informatica è la magia, Linux è la bacchetta migliore per lanciare incantesimi.
+Chi mi conosce bene sa anche che ho un certo favoritismo nei confronti del mondo di Linux perché se l'informatica è la magia, Linux è la bacchetta migliore per lanciare incantesimi.)
 
 Ora, mi dispiace fare un parallelismo con Harry Potter, date le spiacevoli uscite della sua autrice, ma devo elogiare la Rowling per aver scritto un passaggio che ho apprezzato davvero tanto.
 
