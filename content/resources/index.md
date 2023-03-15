@@ -7,12 +7,12 @@ layout: resources-color
 ---
 # Risorse
 
-Qui potete trovare le cose che ho fatto (per ora. Poi magari ci aggiungo anche altre cose che consiglio).
+Qui potete trovare le cose che ho fatto e che voglio condividere con il mondo. Magari un giorno metterò anche cose non mie in una sezione “I consigli di Ericchi” o qualcosa del genere.
 
 
 ## Siti che ho fatto:
 - [Majotachi no Sub](https://majotachinosub.com) (nel 2022).
-- Ovviamente questo, ma mettere un link che punta qui sarebbe ridondante.
+- Ovviamente questo, ma mettere un link che punta qui sarebbe a dir poco ridondante.
 
 
 ## Cose che ho tradotto:

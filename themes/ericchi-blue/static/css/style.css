@@ -28,6 +28,8 @@ body {
   
   padding: 0;
   margin: 0;
+  
+  color: #4B4E53; /* Graphite */
 
   cursor: url("../cursors/ribbonarrow_blue.png"), auto;
 }
@@ -74,6 +76,15 @@ p, main li {
   margin-top:0.5rem;
   margin-bottom:0.5rem;
   color: rgb(88, 197, 255);
+}
+
+.content h2 {
+  background: repeating-linear-gradient(#ffffff00, #ffffff00 46px, white 47px, #e2e2e2 48px, #e2e2e2 50px);
+  background-position-y: -12px;
+
+  font-family: 'HelvetiHand', 'aqua_pfont';
+  margin-top:0.5rem;
+  margin-bottom:0.5rem;
 }
 
 .center {
