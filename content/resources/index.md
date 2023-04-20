@@ -11,14 +11,14 @@ Qui potete trovare le cose che ho fatto e che voglio condividere con il mondo. M
 
 
 ## Siti che ho fatto:
-- [Majotachi no Sub](https://majotachinosub.com) (nel 2022).
+- [Majotachi no Sub](https://web.archive.org/web/20230415190507/https://majotachinosub.com/) (la sua versione del 2022, precedente a quella attuale).
 - Ovviamente questo, ma mettere un link che punta qui sarebbe a dir poco ridondante.
 
 
 ## Cose che ho tradotto:
 - **Strawberry Panic** (nel 2019), il mio anime preferito. Potete trovarlo su [questo canale Telegram](https://t.me/strawberrypanicfansubita).
 - **Aku no Hana (I fiori del male)** (nel 2019), un bellissimo film molto baudelairiano. Nel 2023 la mia traduzione [ha avuto una release grazie al supporto del RaMa, che potete trovare cliccando qui](https://ramaorientalfansub.forumfree.it/?t=79583966).
-- Nel 2022 ho collaborato con [Majotachi no Sub](https://majotachinosub.com/) alla traduzione di vari anime, tra cui [Summer Time Rendering](https://majotachinosub.com/anime/summer-time-rendering.html), [Police in a Pod](https://majotachinosub.com/anime/hakozume-kouban-joshi-no-gyakushuu.html) e [To LOVE-Ru](https://majotachinosub.com/anime/to-love-ru.html). E non solo. Anche un videogioco, [Ib](https://majotachinosub.com/videogiochi/ib.html)!
+- Nel 2022 ho collaborato con Majotachi no Sub alla traduzione di vari anime, tra cui [Summer Time Rendering](https://majotachinosub.com/anime/summer-time-rendering.html), [Police in a Pod](https://majotachinosub.com/anime/hakozume-kouban-joshi-no-gyakushuu.html) e [To LOVE-Ru](https://majotachinosub.com/anime/to-love-ru.html). E non solo. Anche un videogioco, [Ib](https://majotachinosub.com/videogiochi/ib.html)!
 
 
 
