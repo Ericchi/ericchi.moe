@@ -13,6 +13,7 @@ Qui potete trovare le cose che ho fatto e che voglio condividere con il mondo. M
 ## Siti che ho costruito:
 - Majotachi no Sub ([la versione del 2022](https://web.archive.org/web/20230415190507/https://majotachinosub.com/), precedente al restyle del 2023 che non ho fatto io).
 - Ovviamente questo, ma mettere un link che punta qui sarebbe a dir poco ridondante.
+- Un blog e altri progetti minori, persi tra un cambio di dominio e di VPS e mai re-uppati perché preferisco che rimangano come ricordi tra i miei hard disk.
 
 
 ## Cose che ho tradotto:
