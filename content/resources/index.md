@@ -10,8 +10,8 @@ layout: resources-color
 Qui potete trovare le cose che ho fatto e che voglio condividere con il mondo. Magari un giorno metterò anche cose non mie in una sezione “I consigli di Ericchi” o qualcosa del genere.
 
 
-## Siti che ho fatto:
-- [Majotachi no Sub](https://web.archive.org/web/20230415190507/https://majotachinosub.com/) (la sua versione del 2022, precedente a quella attuale).
+## Siti che ho costruito:
+- Majotachi no Sub ([la versione del 2022](https://web.archive.org/web/20230415190507/https://majotachinosub.com/), precedente al restyle del 2023 che non ho fatto io).
 - Ovviamente questo, ma mettere un link che punta qui sarebbe a dir poco ridondante.
 
 
