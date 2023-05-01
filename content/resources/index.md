@@ -20,7 +20,7 @@ Qui potete trovare le cose che ho fatto e che voglio condividere con il mondo. M
 - **Strawberry Panic** (nel 2019), il mio anime preferito. Potete trovarlo su [questo canale Telegram](https://t.me/strawberrypanicfansubita).
 - **Aku no Hana (I fiori del male)** (nel 2019), un bellissimo film molto baudelairiano. Nel 2023 la mia traduzione [ha avuto una release grazie al supporto del RaMa, che potete trovare cliccando qui](https://ramaorientalfansub.forumfree.it/?t=79583966).
 - Nel 2022 ho collaborato con Majotachi no Sub alla traduzione di vari anime, tra cui [Summer Time Rendering](https://majotachinosub.com/anime/summer-time-rendering.html), [Police in a Pod](https://majotachinosub.com/anime/hakozume-kouban-joshi-no-gyakushuu.html) e [To LOVE-Ru](https://majotachinosub.com/anime/to-love-ru.html). E non solo. Anche un videogioco, [Ib](https://majotachinosub.com/videogiochi/ib.html).
-- [Oshi no Ko](https://www.beyondtheataraxia.com/oshi-no-ko.html) (nel 2023), con il team di Beyond the Ataraxia.
+- [Oshi no Ko](https://www.beyondtheataraxia.com/oshi-no-ko.html) (nel 2023), un anime che espone il lato oscuro delle idol. Ho collaborato con il team di Beyond the Ataraxia.
 
 
 ## Cose che ho programmato:
