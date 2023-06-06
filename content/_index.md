@@ -20,7 +20,7 @@ Nel regno dell'Internet non ho una forma ben definita, ma [una mia amica](https:
 
 Il vestito che ho nel disegno lo possiedo davvero e per me ha un significato molto importante.
 
-Parlando di vestiti, mi piace indossare abiti lolita! Soprattutto quelli in stile sailor e classic, anche se nella vita di tutti i giorni sto in pigiama o anche peggio.
+Parlando di vestiti, mi piace indossare [abiti lolita](https://it.wikipedia.org/wiki/Moda_Lolita)! Soprattutto quelli in stile sailor e classic, anche se nella vita di tutti i giorni sto in pigiama o anche peggio.
 
 &nbsp;
 
