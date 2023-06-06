@@ -14,6 +14,12 @@ Qui metterò tutte le frasi che mi sono piaciute di più durante le mie avventur
 
 &nbsp;
 
+Didì: «Alcune persone nella comunità lolita hanno la dipendenza per gli acquisti compulsivi dei vestiti. Immagina se ci fosse una lolita drogata. Dovrebbe scegliere per quale dipendenza spendere i soldi...»
+Ericchi: «Beh... se diventa anche ludopatica e vince al gioco, può spenderli per entrambe!»
+<p class="right">- Ericchi & Didì, 5 giugno 2023, nella cameretta di Didì Pony</p>
+
+&nbsp;
+
 «Ma tu guardi solo o gay o omosessuali»
 <p class="right">- Mia nonna, 25 gennaio 2023, guardando Drag Race</p>
 
