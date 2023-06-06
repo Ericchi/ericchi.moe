@@ -31,7 +31,7 @@ Ericchi: «Beh... se diventa anche ludopatica e vince al gioco, può spenderli p
 
 &nbsp;
 
-«“Strappare i petali” non ci sta in questa textbox. Magari potrei scrivere “Spetalare“ e chiedere all'Accademia della Crusca se me lo accetta...»
+«“Strappare i petali” non ci sta in questa textbox. Magari potrei scrivere “Spetalare” e chiedere all'Accademia della Crusca se me lo accetta...»
 <p class="right">- Ericchi, 22 luglio 2022, adattando Ib in italiano</p>
 
 &nbsp;
