@@ -16,7 +16,9 @@ Vi do il benvenuto nel mio diario virtuale. Questo è il mio sito web personale 
 
 &nbsp;
 
-Nel regno dell'Internet non ho una forma ben definita, ma [una mia amica](https://www.facebook.com/mathelt.6) ha provato a farmi uno sketch e vi posso confermare che il mio aspetto è molto simile al disegno qui a destra se siete in visita da desktop/tablet o qui sopra se state visitando il sito con il vostro smartphone.
+Nel regno dell'Internet non ho una forma ben definita, ma [una mia amica](https://www.facebook.com/mathelt.6) ha provato a farmi uno sketch e vi posso confermare che il mio aspetto è molto simile al disegno qui a destra se siete in visita da desktop/tablet o qui sopra se state visitando il sito con il vostro smartphone. Il vestito che ho nel disegno lo possiedo davvero e per me ha un significato molto importante.
+
+Parlando di vestiti, mi piace indossare abiti lolita! Soprattutto quelli in stile sailor e classic, anche se nella vita di tutti i giorni sto in pigiama o anche peggio.
 
 &nbsp;
 
