@@ -75,7 +75,7 @@ p, main li {
   font-family: 'HelvetiHand', 'aqua_pfont';
   margin-top:0.5rem;
   margin-bottom:0.5rem;
-  color: rgb(88, 197, 255);
+  color: #31A0DD;
 }
 
 .content h2 {
@@ -127,6 +127,10 @@ p.footer {
 
 .header {
 
+}
+
+a, a:link {
+  text-decoration: none;
 }
 
 /* NAVIGATION */
@@ -319,6 +323,13 @@ p.footer {
 
 .post-snippet h3 {
   margin-bottom: 0.25rem;
+  background: repeating-linear-gradient(#fff0, #fff0 29px, white 26px, #e2e2e2 27px, #e2e2e2 31px);
+  background-position-y: 0%;
+}
+
+time {
+  background: repeating-linear-gradient(#ffffff00, #ffffff00 2px, white 18px, #e2e2e2 20px, #e2e2e2 21px);
+  background-position-y: 0%;
 }
 
 @media only screen and (max-width:501px){
