@@ -35,7 +35,7 @@ Qui ci sono i link Amazon delle mie cose, così se avete qualche forma di ossess
 ### I miei giochi preferiti:
 - [Klonoa Phantasy Reverie Series](https://amzn.to/3P6cI00)
 - [Danganronpa Decadence](https://amzn.to/3sllOwW)
-- [The Legend of Zelda: Tears of the Kingdom](https://amzn.to/47GDcfN)
+- [Bravely Default II](https://amzn.to/3YPV3Ns)
 - [Fatal Frame (Project Zero): Mask of the Lunar Eclipse](https://amzn.to/3spzcQR)
 ### Le mie cose preferite:
 - [Pupazzo Monokuma](https://amzn.to/45EqXyr)
