@@ -37,7 +37,7 @@ Qui metterò tutte le frasi che mi sono piaciute di più durante le mie avventur
 &nbsp;
 
 «Klonoa è un gioco simile a Super Mario, ma con la traUma»
-<p class="right">- Ericchi, 13 luglio 2022, spiegando Klonoa in poche parole</p>
+<p class="right">- Ericchi, 13 luglio 2022, spiegando <a href="https://amzn.to/3P6cI00" target="_blank">Klonoa</a> in poche parole</p>
 
 &nbsp;
 

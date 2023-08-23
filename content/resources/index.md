@@ -27,3 +27,18 @@ su [questo canale Telegram](https://t.me/EricchiFansub).
 ## Cose che ho programmato:
 - Sono stata nel team di [TwitchPlaysPokemon](https://twitch.tv/TwitchPlaysPokemon) e nel 2017 ho lavorato a **\<progetto censurato\>** e [Pokémon TriHard Emerald](https://github.com/tustin2121/trihard-emerald), due giochi fan-made che sono andati in onda sul canale Twitch. Ho anche fatto la schermata del titolo di [Pokémon Trick or Treat House](https://github.com/TwitchPlaysPokemon/trick-or-treat-house/), che potete vedere [cliccando qui](pkmn-toth-title.webp).
 - A fine 2022 - inizio 2023 sono andata a scuola di .NET e C# da [Generation](https://italy.generation.org). Potete andare a vedere le repository con i progettini che ho fatto durante il corso [a questo link](https://github.com/DOITA07-Ericchi).
+
+## L'angolino dello shilling
+Qui ci sono i link Amazon delle mie cose, così se avete qualche forma di ossessione nei miei confronti potrete comprarle anche voi!
+### Il mio computer:
+[CPU](https://amzn.to/3sp1QkY) ・ [RAM](https://amzn.to/45mcM19) ・ [SSD](https://amzn.to/3P7RkYd) ・ [GPU](https://amzn.to/47MLeE3)
+### I miei giochi preferiti:
+- [Klonoa Phantasy Reverie Series](https://amzn.to/3P6cI00)
+- [Danganronpa Decadence](https://amzn.to/3sllOwW)
+- [The Legend of Zelda: Tears of the Kingdom](https://amzn.to/47GDcfN)
+- [Fatal Frame (Project Zero): Mask of the Lunar Eclipse](https://amzn.to/3spzcQR)
+### Le mie cose preferite:
+- [Pupazzo Monokuma](https://amzn.to/45EqXyr)
+- [Luce da notte per i capretti controllo del ca**o](https://amzn.to/47D6a09)
+- [Calze da programmazione](https://amzn.to/3qH2iKL)
+- [Pokémon Go Plus +](https://amzn.to/3YNHJsP)

@@ -87,6 +87,30 @@ p, main li {
   margin-bottom:0.5rem;
 }
 
+.content h3 {
+  background: repeating-linear-gradient(#ffffff00, #ffffff00 17px, white 18px, #e2e2e2 19px, #e2e2e2 21px);
+  background-position-y: 8px;
+
+  font-family: 'HelvetiHand', 'aqua_pfont';
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.content h4 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.content h5 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.content h6 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
 .center {
   text-align: center;
 }
@@ -104,6 +128,8 @@ p, main li {
 .content ul {
   font-family: 'aqua_pfont';
   list-style-type: "＊ ";
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .content li::marker {
