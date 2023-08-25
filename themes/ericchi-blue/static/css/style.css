@@ -87,7 +87,7 @@ p, main li {
   margin-bottom:0.5rem;
 }
 
-.content h3 {
+.content h3 :not(.post-snippet) {
   background: repeating-linear-gradient(#ffffff00, #ffffff00 17px, white 18px, #e2e2e2 19px, #e2e2e2 21px);
   background-position-y: 8px;
 
