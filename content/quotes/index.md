@@ -14,6 +14,12 @@ Qui metterò tutte le frasi che mi sono piaciute di più durante le mie avventur
 
 &nbsp;
 
+**Ericchi:** «Già che ci sei, apri anche il culo alla porta 69.»
+**Alcahest** «Fatto. Funziona.»
+<p class="right">- Configurando il port forwarding sul router di Alcahest.</p>
+
+&nbsp;
+
 **Didì:** «Alcune persone nella comunità lolita hanno la dipendenza per gli acquisti compulsivi dei vestiti. Immagina se ci fosse una lolita drogata: dovrebbe scegliere per quale dipendenza spendere i soldi...»
 
 **Ericchi:** «Beh... se diventa anche ludopatica e vince al gioco, può spenderli per entrambe!»
@@ -21,7 +27,7 @@ Qui metterò tutte le frasi che mi sono piaciute di più durante le mie avventur
 
 &nbsp;
 
-«Ma tu guardi solo o gay o omosessuali»
+«Ma tu guardi solo o gay o omosessuali.»
 <p class="right">- Mia nonna, 25 gennaio 2023, guardando Drag Race</p>
 
 &nbsp;
@@ -36,7 +42,7 @@ Qui metterò tutte le frasi che mi sono piaciute di più durante le mie avventur
 
 &nbsp;
 
-«Klonoa è un gioco simile a Super Mario, ma con la traUma»
+«Klonoa è un gioco simile a Super Mario, ma con la traUma.»
 <p class="right">- Ericchi, 13 luglio 2022, spiegando <a href="https://amzn.to/3P6cI00" target="_blank">Klonoa</a> in poche parole</p>
 
 &nbsp;
