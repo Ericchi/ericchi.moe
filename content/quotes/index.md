@@ -14,7 +14,7 @@ Qui metterò tutte le frasi che mi sono piaciute di più durante le mie avventur
 
 &nbsp;
 
-**Ericchi:** «Già che ci sei, apri anche il culo alla porta 69.»
+**Ericchi:** «Già che ci sei, apri anche il c*lo alla porta 69.»
 
 **Alcahest:** «Fatto. Funziona.»
 <p class="right">- Configurando il port forwarding sul router di Alcahest</p>
