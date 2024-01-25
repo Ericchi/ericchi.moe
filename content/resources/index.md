@@ -11,17 +11,18 @@ Qui potete trovare le cose che ho fatto e che voglio condividere con il mondo. M
 
 
 ## Siti che ho costruito:
+- Un blog e altri progetti minori, persi tra un cambio di dominio e di VPS e mai re-uppati perché preferisco che rimangano come ricordi tra i miei hard disk.
 - Ovviamente questo, ma mettere un link che punta qui sarebbe a dir poco ridondante.
 - Majotachi no Sub ([la versione del 2022](https://web.archive.org/web/20230415190507/https://majotachinosub.com/), precedente al restyle del 2023 che non ho fatto io).
-- Un blog e altri progetti minori, persi tra un cambio di dominio e di VPS e mai re-uppati perché preferisco che rimangano come ricordi tra i miei hard disk.
+- [Ochakai Translations](https://www.ochakaitranslations.com)
 
 
 ## Cose che ho tradotto:
 - **Strawberry Panic** (nel 2019), il mio anime preferito. Potete trovarlo 
-su [questo canale Telegram](https://t.me/EricchiFansub).
+su [questo canale Telegram](https://t.me/EricchiFansub) e su [Ochakai Translations](https://www.ochakaitranslations.com/details/strawberry-panic/).
 - **Aku no Hana (I fiori del male)** (nel 2019), un bellissimo film molto baudelairiano. Nel 2023 la mia traduzione [ha avuto una release grazie al supporto del RaMa, che potete trovare cliccando qui](https://ramaorientalfansub.tv/drama/aku-no-hana/).
 - Nel 2022 ho collaborato con Majotachi no Sub alla traduzione di vari anime, tra cui [Summer Time Rendering](https://majotachinosub.com/anime/summer-time-rendering.html), [Police in a Pod](https://majotachinosub.com/anime/hakozume-kouban-joshi-no-gyakushuu.html) e [To LOVE-Ru](https://majotachinosub.com/anime/to-love-ru.html). E non solo. Anche un videogioco, [Ib](https://majotachinosub.com/videogiochi/ib.html).
-- [Oshi no Ko](https://www.beyondtheataraxia.com/oshi-no-ko.html) (nel 2023), un anime che espone il lato oscuro delle idol. Per questo fansub ho collaborato con il team di Beyond the Ataraxia.
+- [Oshi no Ko](https://www.ochakaitranslations.com/details/oshi-no-ko/) (nel 2023), un anime che espone il lato oscuro delle idol. Per questo fansub ho collaborato con il team di Beyond the Ataraxia.
 
 
 ## Cose che ho programmato:
