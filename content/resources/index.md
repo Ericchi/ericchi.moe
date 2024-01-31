@@ -44,6 +44,6 @@ Qui ci sono i link Amazon delle mie cose, così se avete qualche forma di ossess
 - [L'investigatore informatico](https://amzn.to/3StIO7D)
 ### Le mie cose preferite:
 - [Pupazzo Monokuma](https://amzn.to/49ii6US)
-- [Luce da notte per i capretti controllo del ca**o](https://amzn.to/47D6a09)
+- [Luce da notte per i capretti controllo del ca**o](https://amzn.to/48VTcL8)
 - [Calze da programmazione](https://amzn.to/3qH2iKL)
 - [Pokémon Go Plus +](https://amzn.to/3YNHJsP)
