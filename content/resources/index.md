@@ -30,7 +30,7 @@ su [questo canale Telegram](https://t.me/EricchiFansub) e su [Ochakai Translatio
 - A fine 2022 - inizio 2023 sono andata a scuola di .NET e C# da [Generation](https://italy.generation.org). Potete andare a vedere le repository con i progettini che ho fatto durante il corso [a questo link](https://github.com/DOITA07-Ericchi).
 
 ## L'angolino dello shilling
-Qui ci sono i link Amazon delle mie cose, così se avete qualche forma di ossessione nei miei confronti potrete comprarle anche voi!
+Qui ci sono i link Amazon delle mie cose, così se avete qualche forma di ossessione nei miei confronti potrete comprarle anche voi! (Comprando da questi link mi fate guadagnare qualcosina, dato che sono link del programma affiliazione).
 ### Il mio computer:
 [CPU](https://amzn.to/3sp1QkY) ・ [RAM](https://amzn.to/45mcM19) ・ [SSD](https://amzn.to/3P7RkYd) ・ [GPU](https://amzn.to/47MLeE3)
 ### I miei giochi per Nintendo Switch preferiti:
