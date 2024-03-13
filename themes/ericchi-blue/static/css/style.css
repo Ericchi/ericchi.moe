@@ -360,7 +360,7 @@ article.post-snippet {
 time {
   /*background: repeating-linear-gradient(#ffffff00, #ffffff00 2px, white 18px, #e2e2e2 20px, #e2e2e2 21px);
   background-position-y: 0%;*/
-  line-height: 2.5;
+  line-height: 2.2;
 }
 
 @media only screen and (max-width:501px){
