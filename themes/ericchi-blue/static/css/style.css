@@ -87,10 +87,14 @@ p, main li {
   margin-bottom:0.5rem;
 }
 
-.content h3 :not(.post-snippet) {
-  background: repeating-linear-gradient(#ffffff00, #ffffff00 17px, white 18px, #e2e2e2 19px, #e2e2e2 21px);
-  background-position-y: 8px;
+.content h3 {
+  line-height: 1.2;
+}
 
+.content h3 :not(.post-snippet) {
+  /*background: repeating-linear-gradient(#ffffff00, #ffffff00 17px, white 18px, #e2e2e2 19px, #e2e2e2 21px);
+  background-position-y: 8px;
+*/
   font-family: 'HelvetiHand', 'aqua_pfont';
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
