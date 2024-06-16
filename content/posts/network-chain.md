@@ -7,7 +7,7 @@ draft: false
 Ho passato anni a fare la cacca sulle VPN e a dire a tutti che non servono a niente nel concreto, e che si dovrebbe fare ben altro per rendere internet un posto migliore.
 In questi giorni ne sto provando una e la mia convinzione non è cambiata.
 
-
+&nbsp;
 
 Perché la gente usa le VPN?
 
@@ -21,7 +21,7 @@ Perché le persone si lamentano di Windows 11 ma non fanno il primo passo verso 
 
 Perché le persone usano i social con così tanta leggerezza pur sapendo che i loro dati personali vengono venduti e dati in pasto alle intelligenze artificiali?
 
-
+&nbsp;
 
 A volte sento dire che internet è morto.
 
@@ -29,7 +29,7 @@ A volte sento dire che lo hanno ucciso i social.
 
 A volte sento dire che tanto non c'è niente da nascondere, quindi va bene se le grosse corporation vendono i nostri dati personali come se fossero succosi animali pronti al macello.
 
-
+&nbsp;
 
 Internet soffre ogni volta che supportate una compagnia che fa di internet un mezzo per guadagnare soldi grazie al vostro engagement.
 
@@ -41,7 +41,7 @@ Internet soffre quando utilizzate il cadavere di quello che un tempo era davvero
 
 In realtà, internet soffriva già per colpa di Internet Explorer, ma in confronto era solo un graffietto.
 
-
+&nbsp;
 
 Io sono disposta a ricostruire un internet migliore dove le VPN non fanno da palliativo per un internet a pezzi.
 
