@@ -11,7 +11,7 @@ In questi giorni ne sto provando una e la mia convinzione non è cambiata.
 
 Perché la gente usa le VPN?
 
-Perché le persone spendono soldi ogni mese pensando che le VPN mettano un cerotto sopra al cattivo uso che fanno della tecnologia?
+Perché le persone spendono soldi ogni mese pensando che le VPN mettano un cerotto sopra al cattivo uso che fanno di internet?
 
 Perché piuttosto che comprare una VPN, le persone non cambiano i DNS con quelli più sicuri con SSL di Mullvad o Quad9?
 
