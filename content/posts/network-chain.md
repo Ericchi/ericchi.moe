@@ -19,7 +19,7 @@ Perché se le persone vogliono più privacy non la smettono di usare Chrome o Op
 
 Perché le persone si lamentano di Windows 11 ma non fanno il primo passo verso altri sistemi operativi, sperando invece che per qualche miracolo il loro computer la smetta di pugnalarle alle spalle con aggiornamenti terribili, obsolescenza programmata e funzioni non richieste che sono una peggio dell'altra?
 
-Perché le persone usano i social con così tanta leggerezza pur sapendo che i loro dati personali vengono venduti e dati in pasto alle intelligenze artificiali?
+Perché le persone usano i social con così tanta leggerezza pur sapendo che i loro dati personali vengono venduti e sfruttati in modi al limite dell'eticità?
 
 &nbsp;
 
