@@ -53,7 +53,7 @@ Perché il mondo rimane a guardare quella che molti chiamano "enshittification" 
 
 Perché la rete ora è fatta di catene.
 
-E a quanto pare, alle persone piace farsi incatenare.
+E a quanto pare, le persone trovano normale l'essere incatenate.
 
 Quasi nessuno sfugge a quelle catene e gli spazi web indipendenti come i blog e i siti web personali sono sempre più rari.
 
