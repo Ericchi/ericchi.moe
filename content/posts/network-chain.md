@@ -49,4 +49,12 @@ Il problema è che il mondo non lo è, perché il mondo ha scelto dei social net
 
 Perché il mondo rimane a guardare quella che molti chiamano "enshittification" senza fare nulla per cambiare le cose.
 
-Perché la rete ora è fatta di catene. E per quelle catene, le VPN sono soltanto un cerotto.
+&nbsp;
+
+Perché la rete ora è fatta di catene.
+
+E a quanto pare, alle persone piace farsi incatenare.
+
+Quasi nessuno sfugge a quelle catene e gli spazi web indipendenti come i blog e i siti web personali sono sempre più rari.
+
+E per stare più comodi in quelle catene, le VPN sono soltanto un cerotto per calmare un po' il dolore che provocano.
