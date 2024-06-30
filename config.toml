@@ -15,6 +15,7 @@ defaultContentLanguage = "it"
   github = "https://github.com/Ericchi"
   twitch = "https://twitch.tv/EricchiYukia"
   myanimelist = "https://myanimelist.net/profile/EricchiYukia"
+  tumblr = "https://ericchiyukia.tumblr.com/"
 
 [menu]
   [[menu.main]]
