@@ -160,6 +160,12 @@ p.footer {
 
 }
 
+.footersection {
+  font-family: 'HelvetiHand', 'aqua_pfont';
+  margin-top:0;
+  margin-bottom:0;
+}
+
 a, a:link {
   text-decoration: none;
 }

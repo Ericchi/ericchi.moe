@@ -8,6 +8,7 @@
 					</table>
 					<div class="footer-afterimage">
 						<p class="footer">
+							<p class="footersection">SNS di Ericchi:</p>
 							<a href="{{- .Site.Social.telegram -}}" target="_blank"><img src="/images/telegram.webp" alt="Telegram"></a>
 							<a href="{{- .Site.Social.youtube -}}" target="_blank"><img src="/images/youtube.webp" alt="YouTube"></a>
 							<a href="{{- .Site.Social.twitch -}}" target="_blank"><img src="/images/twitch.webp" alt="Twitch"></a>
@@ -15,7 +16,12 @@
 							<a href="{{- .Site.Social.github -}}" target="_blank"><img src="/images/github.webp" alt="GitHub"></a>
 							<a href="{{- .Site.Social.myanimelist -}}" target="_blank"><img src="/images/myanimelist.webp" alt="MyAnimeList"></a>
 							<br>
-							&copy;{{ dateFormat "2006" now }} {{ .Site.Title }}
+							<p class="footersection">Siti amici:</p>
+							<div id="banners-friendsites">{{ .Site.Params.friendsites | safeHTML }}</div>
+							<p class="footersection">Bannerini:</p>
+							<div id="banners-stuff">{{ .Site.Params.stuff | safeHTML }}</div>
+							<br>
+							<p class="footersection">&copy;{{ dateFormat "2006" now }} {{ .Site.Title }}</p>
 						</p>
 					</div>
 				</footer>
