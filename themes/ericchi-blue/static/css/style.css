@@ -352,6 +352,11 @@ p.footer {
   padding-bottom: 1rem;
 }
 
+.copyleft {
+  display:inline-block;
+  transform: rotate(180deg);
+}
+
 /* LISTS */
 
 .post-snippet {
