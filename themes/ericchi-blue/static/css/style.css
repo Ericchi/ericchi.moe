@@ -353,8 +353,9 @@ p.footer {
 }
 
 .copyleft {
-  display:inline-block;
+  display: inline-block;
   transform: rotate(180deg);
+  vertical-align: text-top;
 }
 
 /* LISTS */
