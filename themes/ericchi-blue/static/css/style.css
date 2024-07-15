@@ -57,7 +57,7 @@ body {
 }
 
 /* Styling specific to a sheet of lined paper */
-p main li {
+p, main li {
   font-family: 'Dudu Calligraphy q', 'aqua_pfont';
   background: repeating-linear-gradient(#ffffff00, #ffffff00 30px, white 31px, #e2e2e2 32px, #e2e2e2 33px);
   background-position-y: -40px;
