@@ -18,9 +18,9 @@
 							<br>
 							<br>
 							<p class="footersection">Siti amici:</p>
-							<div id="banners-friendsites">{{ .Site.Params.friendsites | safeHTML }}</div>
+							<div id="banners-friendsites" class="bannerini">{{ .Site.Params.friendsites | safeHTML }}</div>
 							<p class="footersection">Bannerini:</p>
-							<div id="banners-stuff">{{ .Site.Params.stuff | safeHTML }}</div>
+							<div id="banners-stuff" class="bannerini">{{ .Site.Params.stuff | safeHTML }}</div>
 							<br>
 							<span class="footersection"><span class="copyleft">&copy;</span> 2022-{{ dateFormat "2006" now }} {{ .Site.Title }}</span>
 							<br>
