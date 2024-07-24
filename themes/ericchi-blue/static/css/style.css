@@ -79,7 +79,8 @@ img {
   border : 0;
 }
 :active, :focus {
-  outline: none; -moz-outline-style: none;
+  outline: none;
+  -moz-outline-style: none;
 }
 
 .content h1 {
@@ -220,19 +221,19 @@ a, a:link {
   color: hsl(201, 100%, 96%);
 }
 
-.main-menu li:nth-child(2) a:link {
+.main-menu li:nth-child(3) a:link {
   text-shadow: 0px 0px 2px #e0daff, 0px 0px 2px #e0daff, 0px 0px 2px #e0daff, 0px 0px 2px #e0daff, 0px 0px 4px hsl(250, 100%, 60%);
 }
 
-.main-menu li:nth-child(2) a:active {
+.main-menu li:nth-child(3) a:active {
   color: hsl(250, 100%, 97%);
 }
 
-.main-menu li:nth-child(3) a:link {
+.main-menu li:nth-child(4) a:link {
   text-shadow: 0px 0px 2px #ffd1df, 0px 0px 2px #ffd1df, 0px 0px 2px #ffd1df, 0px 0px 2px #ffd1df, 0px 0px 4px hsl(342, 100%, 60%);
 }
 
-.site-nav li:nth-child(3) a:active {
+.site-nav li:nth-child(4) a:active {
   color: hsl(342, 100%, 97%);
 }
 
@@ -322,12 +323,22 @@ li:nth-child(3):before {
 }
 
 @media screen and (max-width: 566px) {
-  .site-nav, .main-menu {
-    flex-direction: column;
+  ul.site-nav, ul.main-menu {
+    flex-wrap: wrap;
+    width: 100%;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    justify-content: center;
+  }
+
+  li.site-nav, li.main-menu {
+    width: calc(100% / 2);
+    text-align: center;
   }
 
   .site-nav a {
     padding: 0.5rem;
+    padding-bottom: 0;
     padding-left: 0.2em;
     font-size: 2rem;
   }

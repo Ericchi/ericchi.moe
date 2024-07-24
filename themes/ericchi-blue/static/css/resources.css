@@ -9,7 +9,7 @@ a {
   cursor: url("../cursors/ribbonhand_pink.png"), pointer;
 }
 
-.site-nav li:nth-child(3) a {
+.site-nav li:nth-child(4) a {
   color: hsl(342, 100%, 97%);
 }
 

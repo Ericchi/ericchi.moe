@@ -9,7 +9,7 @@ a {
   cursor: url("../cursors/ribbonhand_purple.png"), pointer;
 }
 
-.main-menu, li:nth-child(2) a {
+.main-menu, li:nth-child(3) a {
   color: hsl(250, 100%, 97%);
 }
 
