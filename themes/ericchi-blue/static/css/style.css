@@ -68,8 +68,15 @@ p, main li {
   margin-left: 0px;
 }
 
+/* Aggiustamenti per vecchi browser */
+a {
+  outline : none;
+}
 a img {
   outline : none;
+}
+img {
+  border : 0;
 }
 
 .content h1 {
