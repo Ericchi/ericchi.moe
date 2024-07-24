@@ -243,6 +243,12 @@ table.reverse {
   transform: scaleY(-1);
 }
 
+#maintable {
+    margin: auto;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+
 .site-nav::before {
   /*content: url(/images/logo.png);
   content: "Placeholder";*/
