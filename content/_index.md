@@ -14,7 +14,7 @@ Vi do il benvenuto nel mio diario virtuale. Questo è il mio sito web personale 
 
 &nbsp;
 
-<img class="desktop-only-right drawing" style="width: 12em; background-clip: content-box; shape-outside: polygon(30% 34%, 7% 20%, 30% 0, 71% 0, 86% 18%, 87% 43%, 100% 48%, 73% 100%, 36% 100%, 36% 69%, 0 61%, 3% 50%);" src="images/portrait.webp">
+<img class="desktop-only-right drawing" style="width: 12em; background-clip: content-box; shape-outside: polygon(30% 34%, 7% 20%, 30% 0, 71% 0, 86% 18%, 87% 43%, 100% 48%, 73% 100%, 36% 100%, 36% 69%, 0 61%, 3% 50%);" src="images/portrait.webp" onerror='this.onerror = null; this.src="images/portrait.png"'>
 
 Nel regno dell'Internet non ho una forma ben definita, ma [una mia amica](https://www.facebook.com/mathelt.6) ha provato a farmi uno sketch e vi posso confermare che il mio aspetto è molto simile al disegno qui a destra se siete in visita da desktop/tablet o qui sopra se state visitando il sito con il vostro smartphone.
 
