@@ -39,7 +39,7 @@ body {
   font-size: 1.1em;
   margin-bottom: 2rem;
   background-color: white;
-  background-image: url(/images/ribbon.png);
+  background-image: url(/images/ribbon.webp);
   background-repeat: no-repeat;
   background-position-x: -0.1rem;
   background-position-y: -0.1rem;
@@ -250,7 +250,7 @@ table.clouds {
   height:63px;
   border: 0;
   border-spacing: 0;
-  background-image: url(/images/curtain.png);
+  background-image: url(/images/curtain.gif);
 }
 
 table.reverse {
@@ -361,7 +361,7 @@ li:nth-child(3):before {
 }
 
 #page-container {
-  background-image: url(/images/stripes.png);
+  background-image: url(/images/stripes.webp);
   position: relative;
   min-height: 97.77vh;
 }
