@@ -78,6 +78,9 @@ a img {
 img {
   border : 0;
 }
+:active, :focus {
+  outline: none; -moz-outline-style: none;
+}
 
 .content h1 {
   background: repeating-linear-gradient(#ffffff00, #ffffff00 62px, white 63px, #e2e2e2 64px, #e2e2e2 66px);
