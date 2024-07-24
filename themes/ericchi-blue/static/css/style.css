@@ -68,6 +68,10 @@ p, main li {
   margin-left: 0px;
 }
 
+a img {
+  outline : none;
+}
+
 .content h1 {
   background: repeating-linear-gradient(#ffffff00, #ffffff00 62px, white 63px, #e2e2e2 64px, #e2e2e2 66px);
   background-position-y: -16px;
