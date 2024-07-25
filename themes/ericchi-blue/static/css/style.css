@@ -71,6 +71,7 @@ p, main li {
 /* Aggiustamenti per vecchi browser */
 a {
   outline : none;
+  color: #58c5ff;
 }
 a img {
   outline : none;
