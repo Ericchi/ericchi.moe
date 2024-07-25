@@ -203,13 +203,19 @@ a, a:link {
   font-weight: bold;
 }
 
+.nav-title {
+  font-size: 1em;
+  margin-top: 0.1rem;
+  margin-bottom: 0.1rem;
+}
+
 .logo, a:link a:visited {
   color/**/: white;
   text-shadow: 0px 0px 2px #afede8, 0px 0px 5px #afede8, 0px 0px 2px #afede8, 0px 0px 2px #afede8, 0px 0px 4px hsl(175, 63%, 50%);
 }
 
 .site-nav a:active {
-  color: hsl(175, 63%, 96%);
+  color/**/: hsl(175, 63%, 96%);
 }
 
 .nav-element, li:nth-child(1) a:link a:visited {
@@ -218,7 +224,7 @@ a, a:link {
 }
 
 .main-menu li:nth-child(1) a:active {
-  color: hsl(201, 100%, 96%);
+  color/**/: hsl(201, 100%, 96%);
 }
 
 .main-menu li:nth-child(3) a:link {
@@ -226,7 +232,7 @@ a, a:link {
 }
 
 .main-menu li:nth-child(3) a:active {
-  color: hsl(250, 100%, 97%);
+  color/**/: hsl(250, 100%, 97%);
 }
 
 .main-menu li:nth-child(4) a:link {
@@ -234,7 +240,7 @@ a, a:link {
 }
 
 .site-nav li:nth-child(4) a:active {
-  color: hsl(342, 100%, 97%);
+  color/**/: hsl(342, 100%, 97%);
 }
 
 a, a:active {

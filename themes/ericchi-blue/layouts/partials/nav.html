@@ -4,12 +4,12 @@
       <li>
         <!--<a class="logo" href="{{ .Site.BaseURL }}">-->
         <a class="logo" href="/">
-        {{ .Site.Title }}
+        <h1 class="nav-title">{{ .Site.Title }}</h1>
         </a>
       </li>
       {{ range.Site.Menus.main }}
       <li>
-        <a class="nav-element {{ .Identifier }}" href="{{ .URL }}">{{ .Name }}</a>
+        <h1 class="nav-title"><a class="nav-element {{ .Identifier }}" href="{{ .URL }}">{{ .Name }}</a></h1>
       </li>
       {{ end }}
     </ul>

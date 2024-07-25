@@ -1,32 +1,34 @@
 					</div>
 				</main>
 
-				<footer id="footer">
-					<table class="clouds reverse">
-						<tr>
-							<td></td>
-						</tr>
-					</table>
-					<div class="footer-afterimage">
-						<p class="footer">
-							<p class="footersection">SNS di Ericchi:</p>
-							<a href="{{- .Site.Social.telegram -}}" target="_blank"><img src="/images/telegram.webp" alt="Telegram" onerror='this.onerror = null; this.src="/images/telegram.png"'></a>
-							<a href="{{- .Site.Social.youtube -}}" target="_blank"><img src="/images/youtube.webp" alt="YouTube" onerror='this.onerror = null; this.src="/images/youtube.png"'></a>
-							<a href="{{- .Site.Social.twitch -}}" target="_blank"><img src="/images/twitch.webp" alt="Twitch" onerror='this.onerror = null; this.src="/images/twitch.png"'></a>
-							<a href="{{- .Site.Social.tumblr -}}" target="_blank"><img src="/images/tumblr.webp" alt="Tumblr" onerror='this.onerror = null; this.src="/images/tumblr.png"'></a>
-							<a href="{{- .Site.Social.github -}}" target="_blank"><img src="/images/github.webp" alt="GitHub" onerror='this.onerror = null; this.src="/images/github.png"'></a>
-							<a href="{{- .Site.Social.myanimelist -}}" target="_blank"><img src="/images/myanimelist.webp" alt="MyAnimeList" onerror='this.onerror = null; this.src="/images/myanimelist.png"'></a>
-							<br>
-							<br>
-							<p class="footersection">Siti amici:</p>
-							<div id="banners-friendsites" class="bannerini">{{ .Site.Params.friendsites | safeHTML }}</div>
-							<p class="footersection">Bannerini:</p>
-							<div id="banners-stuff" class="bannerini">{{ .Site.Params.stuff | safeHTML }}</div>
-							<br>
-							<span class="footersection"><span class="copyleft">&copy;</span> 2022-{{ dateFormat "2006" now }} {{ .Site.Title }}</span>
-							<br>
-							<br>
-						</p>
+				<footer>
+					<div id="footer">
+						<table class="clouds reverse">
+							<tr>
+								<td></td>
+							</tr>
+						</table>
+						<div class="footer-afterimage">
+							<p class="footer">
+								<p class="footersection">SNS di Ericchi:</p>
+								<a href="{{- .Site.Social.telegram -}}" target="_blank"><img src="/images/telegram.webp" alt="Telegram" onerror='this.onerror = null; this.src="/images/telegram.png"'></a>
+								<a href="{{- .Site.Social.youtube -}}" target="_blank"><img src="/images/youtube.webp" alt="YouTube" onerror='this.onerror = null; this.src="/images/youtube.png"'></a>
+								<a href="{{- .Site.Social.twitch -}}" target="_blank"><img src="/images/twitch.webp" alt="Twitch" onerror='this.onerror = null; this.src="/images/twitch.png"'></a>
+								<a href="{{- .Site.Social.tumblr -}}" target="_blank"><img src="/images/tumblr.webp" alt="Tumblr" onerror='this.onerror = null; this.src="/images/tumblr.png"'></a>
+								<a href="{{- .Site.Social.github -}}" target="_blank"><img src="/images/github.webp" alt="GitHub" onerror='this.onerror = null; this.src="/images/github.png"'></a>
+								<a href="{{- .Site.Social.myanimelist -}}" target="_blank"><img src="/images/myanimelist.webp" alt="MyAnimeList" onerror='this.onerror = null; this.src="/images/myanimelist.png"'></a>
+								<br>
+								<br>
+								<p class="footersection">Siti amici:</p>
+								<div id="banners-friendsites" class="bannerini">{{ .Site.Params.friendsites | safeHTML }}</div>
+								<p class="footersection">Bannerini:</p>
+								<div id="banners-stuff" class="bannerini">{{ .Site.Params.stuff | safeHTML }}</div>
+								<br>
+								<span class="footersection"><span class="copyleft">&copy;</span> 2022-{{ dateFormat "2006" now }} {{ .Site.Title }}</span>
+								<br>
+								<br>
+							</p>
+						</div>
 					</div>
 				</footer>
 			</div>
