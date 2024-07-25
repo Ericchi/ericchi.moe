@@ -10,7 +10,7 @@ Qui metterò tutte le frasi che mi sono piaciute di più durante le mie avventur
 
 &nbsp;
 
-<div class="center grechetta"><p>ー ・ ー ・ ー ・ ー ・ ー ・ ー ・ ー ・ ー ・ ー ・ ー ・ ー ・ ー ・ ー ・ ー ・ ー ・ </p></div>
+<p class="center grechetta">ー ・ ー ・ ー ・ ー ・ ー ・ ー ・ ー ・ ー ・ ー ・ ー ・ ー ・ ー ・ ー ・ ー ・ ー ・ </p>
 
 &nbsp;
 
