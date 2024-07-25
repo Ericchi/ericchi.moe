@@ -14,7 +14,7 @@ a {
 }
 
 #page-container {
-  background-image: linear-gradient(#ffd1df, #ffd1df), url(/images/stripes.png);
+  background-image: linear-gradient(#ffd1df, #ffd1df), url(/images/stripes.webp);
   background-blend-mode: hue;
 }
 
