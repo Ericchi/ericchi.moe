@@ -35,11 +35,10 @@ body {
 }
 
 .content {
-  background-color: #bae7ff;
   font-family: 'Dudu Calligraphy q', 'aqua_pfont';
   font-size: 1.1em;
   margin-bottom: 2rem;
-  background-color: white;
+  background-color: #fafdff;
   background-image: url(/images/ribbon.webp);
   background-repeat: no-repeat;
   background-position-x: -0.1rem;
