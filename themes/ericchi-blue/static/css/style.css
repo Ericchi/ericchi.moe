@@ -259,7 +259,7 @@ table.reverse {
 }
 
 #maintable {
-    margin: 0 auto;
+    margin: auto;
     padding-top: 1rem;
     padding-bottom: 2rem;
 }
