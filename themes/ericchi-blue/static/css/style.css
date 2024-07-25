@@ -204,7 +204,8 @@ a, a:link {
 }
 
 .logo, a:link a:visited {
-  color: white;
+  /*color: white;*/
+  color: hsl(0, 100%, 100%);
   text-shadow: 0px 0px 2px #afede8, 0px 0px 5px #afede8, 0px 0px 2px #afede8, 0px 0px 2px #afede8, 0px 0px 4px hsl(175, 63%, 50%);
 }
 
@@ -213,7 +214,8 @@ a, a:link {
 }
 
 .nav-element, li:nth-child(1) a:link a:visited {
-  color: white;
+  /*color: white;*/
+  color: hsl(0, 100%, 100%);
   text-shadow: 0px 0px 2px #bae7ff, 0px 0px 2px #bae7ff, 0px 0px 2px #bae7ff, 0px 0px 2px #bae7ff, 0px 0px 4px hsl(201, 100%, 50%);
 }
 
@@ -259,7 +261,7 @@ table.reverse {
 }
 
 #maintable {
-    margin: auto;
+    margin: 0 auto;
     padding-top: 1rem;
     padding-bottom: 2rem;
 }
@@ -385,6 +387,7 @@ p.footer {
   margin-bottom: 0;
   padding-top: 1rem;
   padding-bottom: 1rem;
+  text-align: center;
 }
 
 .copyleft {
