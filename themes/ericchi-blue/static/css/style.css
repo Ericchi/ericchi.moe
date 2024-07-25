@@ -282,6 +282,11 @@ table.reverse {
   padding-bottom: 0;
 }
 
+/* Navbar per IE5 */
+li.main-menu {
+  list-style: none;
+}
+
 .site-nav .logo {
   font-weight: bold;
   padding-left: 0;
