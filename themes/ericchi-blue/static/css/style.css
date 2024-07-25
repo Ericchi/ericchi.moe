@@ -283,8 +283,16 @@ table.reverse {
 }
 
 /* Navbar per IE5 */
+ul.main-menu {
+  list-style-type: none;
+  margin: 0;
+  overflow: hidden;
+  text-align: center;
+}
+
 li.main-menu {
-  list-style: none;
+  float: left;
+  text-align: center;
 }
 
 .site-nav .logo {
