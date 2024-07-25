@@ -47,7 +47,7 @@ body {
   border: 0.1rem;
   margin: 2rem auto 2rem auto;
   align-items: center;
-  padding: 0.5rem 1.6rem 1rem 1.6rem;
+  padding: 0.5rem 1.6rem 1rem 32px;
   /*border-style:solid;*/
   border-radius: 0.5rem;
   border-color: transparent;
