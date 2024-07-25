@@ -204,7 +204,7 @@ a, a:link {
 }
 
 .logo, a:link a:visited {
-  color: white;
+  color/**/: white;
   text-shadow: 0px 0px 2px #afede8, 0px 0px 5px #afede8, 0px 0px 2px #afede8, 0px 0px 2px #afede8, 0px 0px 4px hsl(175, 63%, 50%);
 }
 
@@ -213,7 +213,7 @@ a, a:link {
 }
 
 .nav-element, li:nth-child(1) a:link a:visited {
-  color: white;
+  color/**/: white;
   text-shadow: 0px 0px 2px #bae7ff, 0px 0px 2px #bae7ff, 0px 0px 2px #bae7ff, 0px 0px 2px #bae7ff, 0px 0px 4px hsl(201, 100%, 50%);
 }
 
