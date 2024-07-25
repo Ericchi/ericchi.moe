@@ -10,7 +10,7 @@ a {
 }
 
 .logo, a:link a:visited {
-  color/**/: hsl(175, 63%, 96%);
+  color: hsl(175, 63%, 96%);
 }
 
 #page-container {

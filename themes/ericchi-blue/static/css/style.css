@@ -209,7 +209,7 @@ a, a:link {
   margin-bottom: 0.1rem;
 }
 
-.logo, a:link a:visited {
+.logo, li:nth-child(0) a:link a:visited {
   color/**/: white;
   text-shadow: 0px 0px 2px #afede8, 0px 0px 5px #afede8, 0px 0px 2px #afede8, 0px 0px 2px #afede8, 0px 0px 4px hsl(175, 63%, 50%);
 }
