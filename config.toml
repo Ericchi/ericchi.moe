@@ -18,8 +18,9 @@ defaultContentLanguage = "it"
   tumblr = "https://ericchiyukia.tumblr.com/"
 
 [params]
-  friendsites = "<a href='https://sugarsugarrune.forumcommunity.net/' target='_blank'><img src='/images/banners/friends/diPS4.png'></a> <a href='https://bunnidearest.blogspot.com/' target='_blank'><img src='/images/banners/friends/sunnyside.png'></a>"
-  stuff = "<img src='/images/banners/stuff/mangamaisanime.gif'> <img src='/images/banners/stuff/2hu.gif'> <img src='/images/banners/stuff/pokemon.gif'> <img src='/images/banners/stuff/hk.gif'> <img src='/images/banners/stuff/kawaiiness.gif'> <img src='/images/banners/stuff/seedyourtorrents.gif'> <img src='/images/banners/stuff/debian.gif'> <img src='/images/banners/stuff/valid-html401-blue.gif'>"
+  friendsites = "<a href='https://sugarsugarrune.forumcommunity.net/' target='_blank'><img class='banner pixel' src='/images/banners/friends/diPS4.png'></a> <a href='https://bunnidearest.blogspot.com/' target='_blank'><img class='banner pixel' src='/images/banners/friends/sunnyside.png'></a>"
+  stuff = "<img class='banner pixel' src='/images/banners/stuff/mangamaisanime.gif'> <img class='banner pixel' src='/images/banners/stuff/2hu.gif'> <img class='banner pixel' src='/images/banners/stuff/pokemon.gif'> <img class='banner pixel' src='/images/banners/stuff/hk.gif'> <img class='banner pixel' src='/images/banners/stuff/kawaiiness.gif'> <img class='banner pixel' src='/images/banners/stuff/seedyourtorrents.gif'> <img class='banner pixel' src='/images/banners/stuff/debian.gif'> <img class='banner pixel' src='/images/banners/stuff/valid-html401-blue.gif'>"
+  webrings = "<a href='https://itawebring.altervista.org/' target='_blank'><img src='/images/banners/webrings/italia.png'></a>"
 
 [menu]
   [[menu.main]]

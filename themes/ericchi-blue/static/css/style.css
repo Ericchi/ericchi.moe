@@ -242,6 +242,10 @@ a, a:link {
   color/**/: hsl(342, 100%, 97%);
 }
 
+.pixel {
+  image-rendering: pixelated;
+}
+
 a, a:active {
   color: #58c5ff;
 }
