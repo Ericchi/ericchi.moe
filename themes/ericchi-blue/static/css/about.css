@@ -2,11 +2,11 @@ h1 {
 }
 
 body {
-  cursor: url("../cursors/ribbonarrow_teal.png"), auto;
+  cursor: url("../cursors/ribbonarrow_orange.png"), auto;
 }
 
 a {
-  cursor: url("../cursors/ribbonhand_teal.png"), pointer;
+  cursor: url("../cursors/ribbonhand_orange.png"), pointer;
 }
 
 .main-menu, li:nth-child(5) a {
