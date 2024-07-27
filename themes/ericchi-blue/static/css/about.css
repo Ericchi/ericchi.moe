@@ -1,0 +1,33 @@
+h1 {
+}
+
+body {
+  cursor: url("../cursors/ribbonarrow_orange.png"), auto;
+}
+
+a {
+  cursor: url("../cursors/ribbonhand_orange.png"), pointer;
+}
+
+.main-menu, li:nth-child(5) a {
+  color: hsl(60, 62%, 96%);
+}
+
+#page-container {
+  background-image: linear-gradient(#ffb286, #ffb286), url(/images/stripes.webp);
+  background-blend-mode:hue;
+}
+
+.content {
+  filter: hue-rotate(175deg);
+}
+
+img.content {
+  filter: hue-rotate(-175deg);
+}
+
+/* NAVIGATION */
+
+table.clouds {
+  filter: hue-rotate(180deg) saturate(3);
+}
