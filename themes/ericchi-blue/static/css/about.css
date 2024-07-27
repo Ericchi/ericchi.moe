@@ -14,17 +14,16 @@ a {
 }
 
 #page-container {
-  background-image: linear-gradient(#fff8b6, #ffdfb6), url(/images/stripes-light.webp);
+  background-image: linear-gradient(#ffb286, #ffb286), url(/images/stripes.webp);
   background-blend-mode:hue;
 }
 
 .content {
   filter: hue-rotate(175deg);
-
 }
 
 img.content {
-  filter: hue-rotate(-180deg);
+  filter: hue-rotate(-175deg);
 }
 
 /* NAVIGATION */

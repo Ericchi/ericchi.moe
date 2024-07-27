@@ -105,6 +105,7 @@ img {
 .content h3 {
   line-height: 1.2;
   margin-bottom: 0;
+  margin-top: 0;
 }
 
 .content h3 :not(.post-snippet) {

@@ -9,6 +9,15 @@ layout: about-color
 
 Wow! Se sei qui vuol dire che ti interesso davvero tanto!
 
+Qui dovrebbero esserci le cose che mi piacciono, ma purtroppo questa pagina è ancora **work in progress**, e quindi per adesso passo direttamente alla sezione successiva.
+
+&nbsp;
+
+<p class="center grechetta">ー ・ ー ・ ー Work in progress ・ ー ・ ー ・ Work in progress ー ・ ー ・ ー</p>
+
+
+&nbsp;
+
 Qui ci sono le cose che ho fatto. È una sorta di portfolio personale!
 
 ## Siti che ho costruito:
