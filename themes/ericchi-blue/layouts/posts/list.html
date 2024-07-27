@@ -1,5 +1,5 @@
 {{ partial "header.html" . }}
-{{ partial "postscss.html" . }}
+<link rel="stylesheet" href="/css/posts.css" type="text/css" media="all">
 {{ partial "header2.html" . }}
 
 <h1>Scarabocchi</h1>
@@ -9,11 +9,11 @@
 
 {{ range.Data.Pages }}
 <article class="post-snippet">
-  <h3>
+  <h3 class="scarabocchi">
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
   </h3>
 	<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-		{{ .Date.Format "2 January 2006" }}
+		{{ .Date | time.Format "2 January 2006" }}
 	</time>
 </article>
 {{ end }}

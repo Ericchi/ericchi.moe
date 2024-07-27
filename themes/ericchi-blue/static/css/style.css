@@ -242,6 +242,16 @@ a, a:link {
   color/**/: hsl(342, 100%, 97%);
 }
 
+.main-menu li:nth-child(5) a:link {
+  text-shadow: 0px 0px 2px #ffcba9, 0px 0px 2px #ffcba9, 0px 0px 2px #ffcba9, 0px 0px 2px #ffcba9, 0px 0px 4px hsl(29, 100%, 60%);
+}
+
+.site-nav li:nth-child(5) a:active {
+  color/: hsl(342, 100%, 97%);
+}
+
+
+
 .pixel {
   image-rendering: pixelated;
 }
@@ -300,7 +310,7 @@ li.main-menu {
 
 .site-nav .logo {
   font-weight: bold;
-  padding-left: 0;
+  padding-left: 0.05em;
 }
 
 .main-menu {
@@ -329,7 +339,7 @@ li:nth-child(3):before {
 
 
 /* Mobile bar */
-@media screen and (max-width: 48rem) {
+@media screen and (max-width: 54rem) {
   .site-nav, .main-menu {
     /*flex-direction: column; */
   }
@@ -344,7 +354,7 @@ li:nth-child(3):before {
   }
 }
 
-@media screen and (max-width: 566px) {
+@media screen and (max-width: 46rem) {
   ul.site-nav, ul.main-menu {
     flex-wrap: wrap;
     width: 100%;

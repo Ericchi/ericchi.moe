@@ -30,13 +30,19 @@ defaultContentLanguage = "it"
     weight = 10
 
   [[menu.main]]
-    identifier = "about"
+    identifier = "quotes"
     name = "Citazioni"
     url = "/quotes"
     weight = 20
 
   [[menu.main]]
     identifier = "resources"
-    name = "Risorse"
+    name = "Consigli"
     url = "/resources"
     weight = 30
+
+  [[menu.main]]
+    identifier = "about"
+    name = "Ericchi"
+    url = "/about"
+    weight = 40
