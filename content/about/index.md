@@ -7,8 +7,9 @@ layout: about-color
 ---
 # Ericchi
 
-Qui potete trovare le cose che ho fatto. È una sorta di portfolio personale!
+Wow! Se sei qui vuol dire che ti interesso davvero tanto!
 
+Qui ci sono le cose che ho fatto. È una sorta di portfolio personale!
 
 ## Siti che ho costruito:
 - Un blog e altri progettini, persi tra un cambio di server e l'altro e mai ripristinati perché sistemarli e ri-upparli bene è un casino.

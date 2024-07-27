@@ -10,16 +10,17 @@ a {
 }
 
 .main-menu, li:nth-child(5) a {
-  color: hsl(5, 62%, 96%);
+  color: hsl(60, 62%, 96%);
 }
 
 #page-container {
-  background-image: linear-gradient(#edcbaf, #edcbaf), url(/images/stripes.webp);
-  background-blend-mode: hue;
+  background-image: linear-gradient(#fff8b6, #ffdfb6), url(/images/stripes-light.webp);
+  background-blend-mode:hue;
 }
 
 .content {
-  filter: hue-rotate(180deg);
+  filter: hue-rotate(175deg);
+
 }
 
 img.content {
@@ -29,5 +30,5 @@ img.content {
 /* NAVIGATION */
 
 table.clouds {
-  filter: hue-rotate(180deg);
+  filter: hue-rotate(180deg) saturate(3);
 }

@@ -3,7 +3,7 @@ title: "Consigli > Anime"
 type: mylayout
 layout: "resources-color"
 ---
-# Consigli > Anime
+# Anime consigliati
 Gli anime sono la cosa migliore da guardare in televisione e penso che dovrebbero metterli su Canale 5 al posto delle serie TV turche e del Grande Fratello. Questi sono alcuni dei miei preferiti:
 - [Strawberry Panic](https://myanimelist.net/anime/855/Strawberry_Panic): Non penso ci siano sorprese qui. È il mio anime preferito. Lo amo. Amo le emozioni che trasmette, amo l'Étoile, amo la collina di Astraea, amo riguardarlo decine di volte, amo tutto. L'ho tradotto io e [lo potete trovare qui](https://t.me/EricchiFansub/106).
 - [Mahou Shoujo Madoka★Magica](https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka★Magica): Adoro le ragazze magiche e adoro come qui il genere majokko viene stravolto. Certi temi delicati vengono trattati perfettamente e la qualità dello stile grafico e delle musiche è semplicemente poesia.
