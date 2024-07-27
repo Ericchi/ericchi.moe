@@ -3,12 +3,22 @@ date: 2017-04-17T11:01:21-04:00
 draft: false
 title: About
 type: mylayout
-layout: resources-color
+layout: about-color
 ---
-# Risorse
+# Ericchi
 
-Qui potete trovare le cose che ho fatto e che voglio condividere con il mondo. Magari un giorno metterò anche cose non mie in una sezione “I consigli di Ericchi” o qualcosa del genere.
+Wow! Se sei qui vuol dire che ti interesso davvero tanto!
 
+Qui dovrebbero esserci le cose che mi piacciono, ma purtroppo questa pagina è ancora **work in progress**, e quindi per adesso passo direttamente alla sezione successiva.
+
+&nbsp;
+
+<p class="center grechetta">ー ・ ー ・ ー Work in progress ・ ー ・ ー ・ Work in progress ー ・ ー ・ ー</p>
+
+
+&nbsp;
+
+Qui ci sono le cose che ho fatto. È una sorta di portfolio personale!
 
 ## Siti che ho costruito:
 - Un blog e altri progettini, persi tra un cambio di server e l'altro e mai ripristinati perché sistemarli e ri-upparli bene è un casino.
@@ -28,22 +38,3 @@ su [questo canale Telegram](https://t.me/EricchiFansub) e su [Ochakai Translatio
 ## Cose che ho programmato:
 - Sono stata nel team di [TwitchPlaysPokemon](https://twitch.tv/TwitchPlaysPokemon) e nel 2017 ho lavorato a **\<progetto censurato\>** e [Pokémon TriHard Emerald](https://github.com/tustin2121/trihard-emerald), due giochi fan-made che sono andati in onda sul canale Twitch. Ho anche fatto la schermata del titolo di [Pokémon Trick or Treat House](https://github.com/TwitchPlaysPokemon/trick-or-treat-house/), che potete vedere [cliccando qui](pkmn-toth-title.webp).
 - A fine 2022 - inizio 2023 sono andata a scuola di .NET e C# da [Generation](https://italy.generation.org). Potete andare a vedere le repository con i progettini che ho fatto durante il corso [a questo link](https://github.com/DOITA07-Ericchi).
-
-## L'angolino dello shilling
-Qui ci sono i link Amazon delle mie cose, così se avete qualche forma di ossessione nei miei confronti potrete comprarle anche voi! (Comprando da questi link mi fate guadagnare qualcosina, dato che sono link del programma affiliazione).
-### Il mio computer:
-[CPU](https://amzn.to/3sp1QkY) ・ [RAM](https://amzn.to/45mcM19) ・ [SSD](https://amzn.to/3P7RkYd) ・ [GPU](https://amzn.to/47MLeE3)
-### I miei giochi per Nintendo Switch preferiti:
-- [Klonoa Phantasy Reverie Series](https://amzn.to/3P6cI00)
-- [Bravely Default II](https://amzn.to/3YPV3Ns)
-- [Octopath Traveler II](https://amzn.to/4cJ6vk6)
-- [Leggende Pokémon Arceus](https://amzn.to/3S8Lwhw)
-- [Fatal Frame (Project Zero): Mask of the Lunar Eclipse](https://amzn.to/3spzcQR)
-### I miei libri preferiti
-- [La Bibbia Helix](https://amzn.to/48MSkZk)
-- [L'investigatore informatico](https://amzn.to/3StIO7D)
-### Le mie cose preferite:
-- [Pupazzo Monokuma](https://amzn.to/3LqrPyG)
-- [Luce da notte per i capretti controllo del ca**o](https://amzn.to/48VTcL8)
-- [Calze da programmazione](https://amzn.to/3qH2iKL)
-- [Pokémon Go Plus +](https://amzn.to/3YNHJsP)
