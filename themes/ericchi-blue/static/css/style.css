@@ -13,8 +13,8 @@
 }
 
 @font-face {
-  font-family: "aqua_pfont";
-  src: url("../fonts/aqua_pfont.woff") format('woff');
+  font-family: "ZenKurenaido-Regular";
+  src: url("../fonts/ZenKurenaido-Regular.woff") format('woff');
   font-weight: normal;
 }
 
@@ -35,7 +35,7 @@ body {
 }
 
 .content {
-  font-family: 'Dudu Calligraphy q', 'aqua_pfont';
+  font-family: 'Dudu Calligraphy q', 'ZenKurenaido-Regular';
   font-size: 1.1em;
   margin-bottom: 2rem;
   background-color: #fafdff;
@@ -57,7 +57,7 @@ body {
 
 /* Styling specific to a sheet of lined paper */
 p, main li {
-  font-family: 'Dudu Calligraphy q', 'aqua_pfont';
+  font-family: 'Dudu Calligraphy q', 'ZenKurenaido-Regular';
   background: repeating-linear-gradient(#ffffff00, #ffffff00 30px, white 31px, #e2e2e2 32px, #e2e2e2 33px);
   background-position-y: -40px;
 
@@ -87,7 +87,7 @@ img {
   background: repeating-linear-gradient(#ffffff00, #ffffff00 62px, white 63px, #e2e2e2 64px, #e2e2e2 66px);
   background-position-y: -16px;
 
-  font-family: 'HelvetiHand', 'aqua_pfont';
+  font-family: 'HelvetiHand', 'ZenKurenaido-Regular';
   margin-top:0.5rem;
   margin-bottom:0.5rem;
   color: #31A0DD;
@@ -97,7 +97,7 @@ img {
   background: repeating-linear-gradient(#ffffff00, #ffffff00 46px, white 47px, #e2e2e2 48px, #e2e2e2 50px);
   background-position-y: -12px;
 
-  font-family: 'HelvetiHand', 'aqua_pfont';
+  font-family: 'HelvetiHand', 'ZenKurenaido-Regular';
   margin-top:0.5rem;
   margin-bottom:0.5rem;
 }
@@ -112,7 +112,7 @@ img {
   /*background: repeating-linear-gradient(#ffffff00, #ffffff00 17px, white 18px, #e2e2e2 19px, #e2e2e2 21px);
   background-position-y: 8px;
 */
-  font-family: 'HelvetiHand', 'aqua_pfont';
+  font-family: 'HelvetiHand', 'ZenKurenaido-Regular';
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
 }
@@ -147,14 +147,14 @@ img {
 }
 
 .content ul {
-  font-family: 'aqua_pfont';
+  font-family: 'ZenKurenaido-Regular';
   list-style-type: "＊ ";
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
 }
 
 .content li::marker {
-  font-family: 'aqua_pfont';
+  font-family: 'ZenKurenaido-Regular';
 }
 
 hr {
@@ -177,7 +177,7 @@ p.footer {
 }
 
 .footersection {
-  font-family: 'HelvetiHand', 'aqua_pfont';
+  font-family: 'HelvetiHand', 'ZenKurenaido-Regular';
   margin-top:0;
   margin-bottom:0;
 }
