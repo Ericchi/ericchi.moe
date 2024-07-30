@@ -452,9 +452,6 @@ time {
 }
 
 @media only screen and (max-width:501px){
-  img {
-    vertical-align:text-top;
-  }
   img.desktop-only-right {
     text-align: center;
     display: block;
