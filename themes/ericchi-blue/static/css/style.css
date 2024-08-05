@@ -130,8 +130,8 @@ img {
 }
 
 .paper h2 {
-  background: repeating-linear-gradient(#ffffff00, #ffffff00 46px, white 47px, #e2e2e2 48px, #e2e2e2 50px);
-  background-position-y: -12px;
+  background: repeating-linear-gradient(#ffffff00, #ffffff00 39px, white 39px, #e2e2e2 40px, #e2e2e2 42px);
+  background-position-y: -8px;
 
   font-family: 'HelvetiHand', 'ZenKurenaido-Regular';
   margin-top: 0.5rem;
