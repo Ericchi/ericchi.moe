@@ -13,7 +13,7 @@ Qui dovrebbero esserci le cose che mi piacciono, ma purtroppo questa pagina è a
 
 &nbsp;
 
-<p class="center grechetta">ー ・ ー ・ ー Work in progress ・ ー ・ ー ・ Work in progress ー ・ ー ・ ー</p>
+<p class="center">ー ・ ー ・ ー ・ ー</p>
 
 
 &nbsp;
