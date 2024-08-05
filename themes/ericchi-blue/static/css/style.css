@@ -55,14 +55,14 @@ body {
   font-family: 'Dudu Calligraphy q', 'ZenKurenaido-Regular';
   font-size: 1.1em;
   margin-bottom: 1rem;
-  background-color: #fafdff;
+  /*background-color: #fafdff;*/
   background-position-x: -0.1rem;
   background-position-y: -0.1rem;
-  box-shadow: 0em 0em 0.1em #4a5a7466;
-  border-color: transparent;
-  border-radius: 0.5rem;
+  border-style: solid;
   outline-offset: 10rem;
-  border: 0.1rem;
+  border-image: url("/images/cloudborder_7.png") 7 fill round;
+  border-width: 7px;
+  border-color: white;
   /*margin-left: 0.6rem;
   margin-right: 0.6rem;*/
   padding: 0.5rem 1.6rem 1rem 1.6rem;
@@ -75,6 +75,7 @@ body {
   flex: 3 1;
   margin-left: 0.3rem;
   margin-right: 0.3rem;
+  /*box-shadow: 0em 0em 0.2em #4a5a7466;*/
   /*border-style:solid;*/
 }
 
