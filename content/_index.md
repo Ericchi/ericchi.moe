@@ -4,7 +4,7 @@ type: mylayout
 layout: "home-color"
 ---
 
-# Ericchi.moe
+# Gokigenyō!
 
 Ciao, sono Ericchi!
 
@@ -14,7 +14,7 @@ Vi do il benvenuto nel mio diario virtuale. Questo è il mio sito web personale 
 
 &nbsp;
 
-<img class="desktop-only-right drawing" style="width: 12em; background-clip: content-box; shape-outside: polygon(30% 34%, 7% 20%, 30% 0, 71% 0, 86% 18%, 87% 43%, 100% 48%, 73% 100%, 36% 100%, 36% 69%, 0 61%, 3% 50%);" src="images/portrait.webp" onerror='this.onerror = null; this.src="images/portrait.png"'>
+<div class="drawing"><img class="desktop-only-right-sidebar" style="width: 12em; background-clip: content-box; shape-outside: polygon(30% 34%, 7% 20%, 30% 0, 71% 0, 86% 18%, 87% 43%, 100% 48%, 73% 100%, 36% 100%, 36% 69%, 0 61%, 3% 50%);" src="images/portrait.webp" onerror='this.onerror = null; this.src="images/portrait.png"'></div>
 
 Nel regno dell'Internet non ho una forma ben definita, ma [una mia amica](https://www.facebook.com/mathelt.6) ha provato a farmi uno sketch e vi posso confermare che il mio aspetto è molto simile al disegno qui a destra se siete in visita da desktop/tablet o qui sopra se state visitando il sito con il vostro smartphone.
 
@@ -29,3 +29,15 @@ Sono un'amante di tutto ciò che è magico (soprattutto le [majokko](https://it.
 &nbsp;
 
 Nel tempo libero mi piace guardare anime, giocare ai videogiochi e quando voglio essere produttiva studio [l'antica lingua dei Kami](https://it.wikipedia.org/wiki/Lingua_giapponese). I miei videogiochi preferiti sono gli [RPG](https://it.wikipedia.org/wiki/Gioco_di_ruolo) e ogni tanto mi diletto con il [VGC e il GCC di Pokémon](https://www.pokemon.com/it/play-pokemon/info)!
+
+|||||
+
+# Status
+<div id="statuscafe" class="underline"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div><script src="https://status.cafe/current-status.js?name=ericchi" defer></script>
+
+# Novità
+Adesso il sito ha una sidebar!!! Wow! Immagina quante cose si possono fare con una sidebar. Io però ci devo ancora pensare bene.
+
+<!--<div class="norecolor">
+<img class='banner pixel' src='/images/banners/stuff/mangamaisanime.gif' alt='Manga Anime'> <img class='banner pixel' src='/images/banners/stuff/2hu.gif' alt='Touhou Project'> <img class='banner pixel' src='/images/banners/stuff/pokemon.gif' alt='Pokémon'> <img class='banner pixel' src='/images/banners/stuff/hk.gif' alt='Hello Kitty'> <img class='banner pixel' src='/images/banners/stuff/kawaiiness.gif' alt='Kawaiiness'> <img class='banner pixel' src='/images/banners/stuff/seedyourtorrents.gif' alt='Seed your torrents'> <img class='banner pixel' src='/images/banners/stuff/debian.gif' alt='Powered by Debian'> <img class='banner pixel' src='/images/banners/stuff/valid-html401-blue.gif' alt='HTML 4.01 valid'>
+</div>-->

@@ -1,0 +1,4 @@
+{{ $cols := split .Content "|||||" }}
+<div class="paper color sidebar">
+    {{ index $cols 1 | safe.HTML }}
+</div>

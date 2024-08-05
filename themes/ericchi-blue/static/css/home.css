@@ -18,11 +18,15 @@ a {
   background-blend-mode: hue;
 }
 
-.content {
+.color {
   filter: hue-rotate(330deg);
 }
 
-img.content {
+img.color{
+  filter: hue-rotate(-330deg);
+}
+
+.norecolor {
   filter: hue-rotate(-330deg);
 }
 

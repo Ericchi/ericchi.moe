@@ -1,0 +1,18 @@
+<main>
+    <div class="main-container">
+        <div class="paper color content">
+            <h1>Scarabocchi<div style="float: right; margin-right: 2px;"><a href="index.xml"><img src="/images/rss.webp" alt="rss"></img></a></h1>
+                <!--<p class="right">Feed RSS Tag</p>-->
+            {{ range.Data.Pages }}
+            <article class="post-snippet">
+                <h3 class="scarabocchi">
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </h3>
+                <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+                    {{ .Date | time.Format "2 January 2006" }}
+                </time>
+            </article>
+            {{ end }}
+            {{ .Content }}
+        </div>
+        
