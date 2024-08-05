@@ -92,8 +92,8 @@ body {
 /* Styling specific to a sheet of lined paper */
 p, main li, .underline {
   font-family: 'Dudu Calligraphy q', 'ZenKurenaido-Regular';
-  background: repeating-linear-gradient(#ffffff00, #ffffff00 30px, white 31px, #e2e2e2 32px, #e2e2e2 33px);
-  background-position-y: -40px;
+  background: repeating-linear-gradient(#ffffff00, #ffffff00 26px, white 26px, #e2e2e2 27px, #e2e2e2 28px);
+  background-position-y: -32px;
 
   padding: 0;
   margin-top: 0px;
@@ -118,12 +118,14 @@ img {
 }
 
 .paper h1 {
-  background: repeating-linear-gradient(#ffffff00, #ffffff00 62px, white 63px, #e2e2e2 64px, #e2e2e2 66px);
-  background-position-y: -16px;
+  background: repeating-linear-gradient(#ffffff00, #ffffff00 46px, white 46px, #e2e2e2 47px, #e2e2e2 49px);
+  background-position-y: -9px;
 
   font-family: 'HelvetiHand', 'ZenKurenaido-Regular';
+  /*font-size: 44px;*/
+  font-size: 38.5px;
   margin-top:0.5rem;
-  margin-bottom:0rem;
+  margin-bottom:0.2rem;
   color: #31A0DD;
 }
 
