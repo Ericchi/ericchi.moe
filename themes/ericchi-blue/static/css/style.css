@@ -90,15 +90,32 @@ body {
 }
 
 /* Styling specific to a sheet of lined paper */
-p, main li, .underline {
-  font-family: 'Dudu Calligraphy q', 'ZenKurenaido-Regular';
+p, .underline {
   background: repeating-linear-gradient(#ffffff00, #ffffff00 26px, white 26px, #e2e2e2 27px, #e2e2e2 28px);
   background-position-y: -32px;
-
+  font-family: 'Dudu Calligraphy q', 'ZenKurenaido-Regular';
   padding: 0;
-  margin-top: 0px;
+  margin-top: -3px;
   margin-bottom: 0px;
   margin-left: 0px;
+}
+
+main li {
+  font-family: 'Dudu Calligraphy q', 'ZenKurenaido-Regular';
+  margin-top: -3px;
+}
+
+.paper ul {
+  background: repeating-linear-gradient(#ffffff00, #ffffff00 26px, white 26px, #e2e2e2 27px, #e2e2e2 28px);
+  background-position-y: -32px;
+  font-family: 'Yomogi-SymbolsOnly';
+  list-style-type: "・ ";
+  margin-top: 0;
+  padding-top: var(--line-size);
+}
+
+.paper li::marker {
+  font-family: 'Yomogi-SymbolsOnly';
 }
 
 /* Aggiustamenti per vecchi browser */
@@ -180,17 +197,6 @@ img {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: clip;
-}
-
-.paper ul {
-  font-family: 'Yomogi-SymbolsOnly';
-  list-style-type: "＊ ";
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
-}
-
-.paper li::marker {
-  font-family: 'Yomogi-SymbolsOnly';
 }
 
 hr {
@@ -500,11 +506,6 @@ time {
   }
 }
 
-:root {
-  --mainbox-size: 46rem;
-  --container-size: 70rem;
-}
-
 ruby {
   display: inline-block;
   position: relative;
@@ -519,4 +520,10 @@ ruby rt {
   transform: translateX(-50%);
   white-space: nowrap;
   pointer-events: none; /* Evita che il furigana interferisca con la selezione del testo */
+}
+
+:root {
+  --mainbox-size: 46rem;
+  --container-size: 70rem;
+  --line-size: 28px;
 }

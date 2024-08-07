@@ -26,8 +26,8 @@ Qui metterò tutte le frasi che mi sono piaciute di più durante le mie avventur
 
 &nbsp;
 
-«<ruby>時間<rp>(</rp><rt>jikan</rt><rp>)</rp>が<rp>(</rp><rt>ga</rt><rp>)</rp>ない<rp>(</rp><rt>nai</rt><rp>)</rp></ruby>、 mi sa che morirai.»
-<p class="right">- Ericchi, 17 agosto 2022, osservando un'amica giocare a <ruby>ナナシ<rp>(</rp><rt>nanashi</rt><rp>)</rp>ノ<rp>(</rp><rt>no</rt><rp>)</rp>ゲエム<rp>(</rp><rt>geemu</rt><rp>)</rp></ruby></p>
+«<ruby>時間<rt>jikan</rt></ruby><ruby>が<rt>ga</rt></ruby><ruby>ない<rt>nai</rt></ruby></ruby>、 mi sa che morirai.»
+<p class="right">- Ericchi, 17 agosto 2022, guardando un'amica giocare a <ruby>ナナシ<rt>nanashi</rt></ruby><ruby>ノ<rt>no</rt></ruby><ruby>ゲエム<rt>geemu</rt></ruby></p>
 
 &nbsp;
 
@@ -46,5 +46,5 @@ Qui metterò tutte le frasi che mi sono piaciute di più durante le mie avventur
 
 &nbsp;
 
-«<ruby>頑張<rp>(</rp><rt>ganba</rt><rp>)</rp></ruby>rizzati!»
+«<ruby>頑張<rt>ganba</rt></ruby>rizzati!»
 <p class="right">- Ericchi, 4 settembre 2020, incoraggiando un'amica</p>

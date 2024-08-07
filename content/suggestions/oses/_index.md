@@ -28,5 +28,5 @@ Andiamo, non sarei io se non avessi da lamentarmi di qualcosa che riguarda i com
 
 ## Quelli che esistono perché sì
 No comment.
-- [osakaOS](https://leechplus.neocities.org/projects/osakaOS): Un sistema operativo che ha come protagonista <ruby>大阪<rt>Osaka</rt></ruby> di <ruby>あずまんが<rt>Azumanga</rt></ruby><ruby>大王<rt>Daioh</rt><rp>)</rp></ruby>. Il programmatore la ama così tanto da aver creato un sistema operativo solo per lei, in cui tutte le routine per la gestione delle varie risorse sono volontariamente insensate e inefficienti ma funzionanti.
+- [osakaOS](https://leechplus.neocities.org/projects/osakaOS): Un sistema operativo che ha come protagonista <ruby>大阪<rt>Osaka</rt></ruby> di <ruby>あずまんが<rt>Azumanga</rt></ruby><ruby>大王<rt>Daioh</rt></ruby>. Il programmatore la ama così tanto da aver creato un sistema operativo solo per lei, in cui tutte le routine per la gestione delle varie risorse sono volontariamente insensate e inefficienti ma funzionanti.
 - [TETRIS-OS](https://github.com/lucianoforks/tetris-os): Come dice il nome, è un sistema operativo che permette di fare soltanto una cosa: giocare a Tetris.

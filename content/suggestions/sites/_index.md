@@ -15,4 +15,4 @@ Questi sono siti web creati da singole persone che hanno espresso tutte sé stes
 
 ## Cimitero
 Questi siti non esistono più e mi mancano terribilmente. La loro scomparsa ha portato via un pezzo prezioso di internet e il minimo che posso fare è ricordarli qui.
-- <ruby>プーペ<rp>(</rp><rt>poupé</rt><rp>)</rp>ガール<rp>(</rp><rt>girl</rt><rp>)</rp></ruby>: Un gioco online in Flash con una poupetta da vestire in modo diverso ogni giorno. Era possibile generare un widget con la propria poupetta e metterla in mostra sui propri spazi web e nelle firme dei forum.
+- <ruby>プーペ<rt>poupé</rt></ruby><ruby>ガール<rt>girl</rt></ruby>: Un gioco online in Flash con una poupetta da vestire in modo diverso ogni giorno. Era possibile generare un widget con la propria poupetta e metterla in mostra sui propri spazi web e nelle firme dei forum.
