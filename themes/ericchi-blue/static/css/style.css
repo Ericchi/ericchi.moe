@@ -504,3 +504,19 @@ time {
   --mainbox-size: 46rem;
   --container-size: 70rem;
 }
+
+ruby {
+  display: inline-block;
+  position: relative;
+  font-size: 80%;
+}
+
+ruby rt {
+  font-size: 0.6em;
+  position: absolute;
+  bottom: 100%; /* Posiziona il furigana sopra il testo */
+  left: 50%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+  pointer-events: none; /* Evita che il furigana interferisca con la selezione del testo */
+}

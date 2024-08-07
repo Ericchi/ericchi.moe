@@ -37,9 +37,9 @@ defaultContentLanguage = "it"
     weight = 20
 
   [[menu.main]]
-    identifier = "resources"
+    identifier = "suggestions"
     name = "Consigli"
-    url = "/resources"
+    url = "/suggestions"
     weight = 30
 
   [[menu.main]]
