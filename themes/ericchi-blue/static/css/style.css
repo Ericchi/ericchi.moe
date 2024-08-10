@@ -84,7 +84,7 @@ body {
   flex: 1 1;
   margin-left: 0.3rem;
   margin-right: 0.3rem;
-
+  align-self: start;
   /*background-image: url("/images/ring2.png");*/
   background-repeat: repeat-y;
 }
@@ -490,6 +490,22 @@ time {
   background-clip: content-box, padding-box;
 }
 
+.photo {
+  box-shadow: 0em 0em 0.6em #4a5a7466;
+  padding: 0.5em;
+  margin-top: 0.5em;
+  background-color: white;
+}
+
+.photo-right {
+  rotate: 3deg;
+  margin-right: -3.5em;
+}
+
+.image {
+  width: var(--image-size);
+}
+
 @media only screen and (max-width:60em){
   img.desktop-only-right-sidebar {
     text-align: center;
@@ -497,6 +513,17 @@ time {
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .photo {
+    width: var(--image-size);
+  }
+
+  .photo-right {
+    rotate: 1.8deg;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0.5em;
   }
 }
 
@@ -526,4 +553,5 @@ ruby rt {
   --mainbox-size: 46rem;
   --container-size: 70rem;
   --line-size: 28px;
+  --image-size: 12em;
 }
