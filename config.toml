@@ -19,8 +19,8 @@ defaultContentLanguage = "it"
 
 [params]
   favicon = "/images/favicon.gif"
-  friendsites = "<a href='https://sugarsugarrune.forumcommunity.net/' target='_blank'><img class='banner pixel' src='/images/banners/friends/diPS4.png' alt='Sugar Sugar Rune'></a> <a href='https://bunnidearest.blogspot.com/' target='_blank'><img class='banner pixel' src='/images/banners/friends/sunnyside.png' alt='Sunnyside'></a>"
-  stuff = "<img class='banner pixel' src='/images/banners/stuff/mangamaisanime.gif' alt='Manga Anime'> <img class='banner pixel' src='/images/banners/stuff/2hu.gif' alt='Touhou Project'> <img class='banner pixel' src='/images/banners/stuff/pokemon.gif' alt='Pokémon'> <img class='banner pixel' src='/images/banners/stuff/hk.gif' alt='Hello Kitty'> <img class='banner pixel' src='/images/banners/stuff/kawaiiness.gif' alt='Kawaiiness'> <img class='banner pixel' src='/images/banners/stuff/seedyourtorrents.gif' alt='Seed your torrents'> <img class='banner pixel' src='/images/banners/stuff/debian.gif' alt='Powered by Debian'> <img class='banner pixel' src='/images/banners/stuff/valid-html401-blue.gif' alt='HTML 4.01 valid'>"
+  friendsites = ""
+  stuff = ""
   webrings = "<a href='https://itawebring.altervista.org/' target='_blank'><img src='/images/banners/webrings/italia.png' alt='Italian webring'></a> <a href='https://allyratworld.com/cafe/rose' target='_blank'><img src='/images/banners/webrings/caferose_88x31melo.png' alt='Café Rosé'></a> <a href='https://yume-ring.neocities.org/' target='_blank'><img src='/images/banners/webrings/yume-ring.png' alt='Yume-Ring'></a>"
 
 [menu]

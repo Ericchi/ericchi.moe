@@ -35,10 +35,13 @@ Nel tempo libero mi piace guardare anime, giocare ai videogiochi e quando voglio
 # Status
 <div id="statuscafe" class="underline"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div><script src="https://status.cafe/current-status.js?name=ericchi" defer></script>
 
-# Novità
-Adesso il sito ha una sidebar!!! Wow! Immagina quante cose si possono fare con una sidebar. Io però ci devo ancora pensare bene.
+# Siti amici
 
+<div class="norecolor">
+    <div id="banners-friendsites" class="bannerini">{{< friendsites >}}</div>
+</div>
 
-<!--<div class="norecolor">
-<img class='banner pixel' src='/images/banners/stuff/mangamaisanime.gif' alt='Manga Anime'> <img class='banner pixel' src='/images/banners/stuff/2hu.gif' alt='Touhou Project'> <img class='banner pixel' src='/images/banners/stuff/pokemon.gif' alt='Pokémon'> <img class='banner pixel' src='/images/banners/stuff/hk.gif' alt='Hello Kitty'> <img class='banner pixel' src='/images/banners/stuff/kawaiiness.gif' alt='Kawaiiness'> <img class='banner pixel' src='/images/banners/stuff/seedyourtorrents.gif' alt='Seed your torrents'> <img class='banner pixel' src='/images/banners/stuff/debian.gif' alt='Powered by Debian'> <img class='banner pixel' src='/images/banners/stuff/valid-html401-blue.gif' alt='HTML 4.01 valid'>
-</div>-->
+# Bannerini
+<div class="norecolor">
+    <div id="banners-stuff" class="bannerini">{{< banners >}}</div>
+</div>

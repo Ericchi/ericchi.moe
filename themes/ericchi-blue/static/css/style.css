@@ -81,7 +81,8 @@ body {
 
 .sidebar {
   /*max-width: 15rem;*/
-  flex: 1 1;
+  min-width: 8.3em;
+  flex: 1.2 1;
   margin-left: 0.3rem;
   margin-right: 0.3rem;
   align-self: start;
@@ -137,7 +138,6 @@ img {
 .paper h1 {
   background: repeating-linear-gradient(#ffffff00, #ffffff00 46px, white 46px, #e2e2e2 47px, #e2e2e2 49px);
   background-position-y: -9px;
-
   font-family: 'HelvetiHand', 'ZenKurenaido-Regular';
   /*font-size: 44px;*/
   font-size: 38.5px;
@@ -399,7 +399,7 @@ li:nth-child(3):before {
   }
 }
 
-@media screen and (max-width: 46rem) {
+@media screen and (max-width: var(--mainbox-size)) {
   ul.site-nav, ul.main-menu {
     flex-wrap: wrap;
     width: 100%;
@@ -435,6 +435,10 @@ li:nth-child(3):before {
 .bannerini {
   max-width: 49rem;
   margin: auto;
+}
+
+.banner {
+  margin: 0.05em;
 }
 
 #page-container {
@@ -506,7 +510,7 @@ time {
   width: var(--image-size);
 }
 
-@media only screen and (max-width:60em){
+@media only screen and (max-width: 60em){
   img.desktop-only-right-sidebar {
     text-align: center;
     display: block;
@@ -527,7 +531,7 @@ time {
   }
 }
 
-@media only screen and (min-width:60em){
+@media only screen and (min-width: 60em){
   .desktop-only-right-sidebar {
     float: right;
   }
