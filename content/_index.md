@@ -38,10 +38,10 @@ Nel tempo libero mi piace guardare anime, giocare ai videogiochi e quando voglio
 # Siti amici
 
 <div class="norecolor">
-    <div id="banners-friendsites" class="bannerini">{{< friendsites >}}</div>
+    <div id="banners-friendsites" class="bannerini center">{{< friendsites >}}</div>
 </div>
 
 # Bannerini
 <div class="norecolor">
-    <div id="banners-stuff" class="bannerini">{{< banners >}}</div>
+    <div id="banners-stuff" class="bannerini center">{{< banners >}}</div>
 </div>

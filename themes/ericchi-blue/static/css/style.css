@@ -81,7 +81,7 @@ body {
 .sidebar {
   /*max-width: 15rem;*/
   min-width: 8.3em;
-  flex: 1.2 1;
+  flex: 1.18 1;
   margin-left: 0.3rem;
   margin-right: 0.3rem;
   align-self: start;
