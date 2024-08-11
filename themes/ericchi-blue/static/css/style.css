@@ -403,7 +403,7 @@ li:nth-child(3):before {
   }
 }
 
-@media screen and (max-width: var(--mainbox-size)) {
+@media screen and (max-width: 46em) /* Don't use the variable. It's broken. */ {
   ul.site-nav, ul.main-menu {
     flex-wrap: wrap;
     width: 100%;
@@ -448,7 +448,7 @@ li:nth-child(3):before {
 #page-container {
   background-image: url(/images/stripes.webp);
   position: relative;
-  min-height: 97.77vh;
+  /*min-height: 97.77vh;*/
 }
 
 .footer-afterimage {
