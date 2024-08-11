@@ -9,7 +9,3 @@ a {
 .main-menu, li:nth-child(2) a {
     color: hsl(201, 100%, 96%) !important;
 }
-
-.content {
-  margin-bottom: 10em; /* Placeholder because the page is short! */
-}
