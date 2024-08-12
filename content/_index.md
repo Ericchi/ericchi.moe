@@ -29,9 +29,7 @@ Sono un'amante di tutto ciò che è magico (soprattutto le [majokko](https://it.
 &nbsp;
 
 Nel tempo libero mi piace guardare anime, giocare ai videogiochi e quando voglio essere produttiva studio [l'antica lingua dei Kami](https://it.wikipedia.org/wiki/Lingua_giapponese). I miei videogiochi preferiti sono gli [RPG](https://it.wikipedia.org/wiki/Gioco_di_ruolo) e ogni tanto mi diletto con il [VGC e il GCC di Pokémon](https://www.pokemon.com/it/play-pokemon/info)!
-
 |||||
-
 # Status
 <div id="statuscafe" class="underline"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div><script src="https://status.cafe/current-status.js?name=ericchi" defer></script>
 
