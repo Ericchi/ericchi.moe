@@ -1,7 +1,7 @@
 ---
 title: "Home"
 type: mylayout
-layout: "resources-color"
+layout: "pink-color"
 ---
 # Oggetti consigliati
 Qui ci sono i link Amazon delle mie cose preferite, così se avete qualche forma di ossessione nei miei confronti potrete comprarle anche voi! (Comprando da questi link mi fate guadagnare qualcosina, dato che sono link del programma affiliazione).

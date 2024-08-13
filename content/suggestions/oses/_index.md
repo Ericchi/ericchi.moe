@@ -1,7 +1,7 @@
 ---
 title: "Home"
 type: mylayout
-layout: "resources-color"
+layout: "pink-color"
 ---
 
 # Ericchi raccomanda gli OS

@@ -1,7 +1,7 @@
 ---
 title: "Home"
 type: mylayout
-layout: "home-color"
+layout: "teal-color"
 ---
 
 # Gokigenyō!

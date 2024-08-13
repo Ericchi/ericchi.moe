@@ -3,8 +3,6 @@
 
 <h1>{{ .Title }}</h1>
 
-{{ .Content }}
-
 {{ range.Data.Pages }}
 <article class="post-snippet">
   <h3>
@@ -15,7 +13,7 @@
 	</time>
 </article>
 {{ end }}
-{{ .Content }}
+
 
 
 {{ partial "footer.html" . }}

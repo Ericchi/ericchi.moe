@@ -1,7 +1,6 @@
 ---
 title: "Un rambling sulla magia dei computer e le bacchette sbagliate"
 date: 2022-10-15T01:05:00+02:00
-layout: posts-color
 draft: false
 ---
 

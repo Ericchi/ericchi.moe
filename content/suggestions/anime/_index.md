@@ -1,7 +1,7 @@
 ---
 title: "Consigli > Anime"
 type: mylayout
-layout: "resources-color"
+layout: "pink-color"
 ---
 # Anime consigliati
 Gli anime sono la cosa migliore da guardare in televisione e penso che dovrebbero metterli su Canale 5 al posto delle serie TV turche e del Grande Fratello. Questi sono alcuni dei miei preferiti:

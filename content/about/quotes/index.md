@@ -1,12 +1,12 @@
 ---
 title: Citazioni
 type: mylayout
-layout: quotes-color
+layout: orange-color
 ---
 
 # Citazioni
 
-Qui metterò tutte le frasi che mi sono piaciute di più durante le mie avventure, con i rispettivi autori.
+Questa è una lista delle mie preferite tra le frasi che sono saltate fuori durante le mie avventure. La situazione e le persone coinvolte sono riportate sotto ad ogni citazione.
 
 &nbsp;
 

@@ -32,8 +32,8 @@ defaultContentLanguage = "it"
 
   [[menu.main]]
     identifier = "quotes"
-    name = "Citazioni"
-    url = "/quotes"
+    name = "Giochi"
+    url = "/toybox"
     weight = 20
 
   [[menu.main]]

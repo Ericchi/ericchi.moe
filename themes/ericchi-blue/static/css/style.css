@@ -112,6 +112,7 @@ main li {
   list-style-type: "・ ";
   margin-top: 0;
   padding-top: var(--line-size);
+  padding-top: 0;
 }
 
 .paper li::marker {
