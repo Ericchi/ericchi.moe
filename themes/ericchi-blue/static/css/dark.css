@@ -1,0 +1,29 @@
+h1 {
+}
+
+body {
+  cursor: url("../cursors/ribbonarrow_bw.png"), auto;
+}
+
+a {
+  cursor: url("../cursors/ribbonhand_bw.png"), pointer;
+}
+
+#page-container {
+  background-image: linear-gradient(#999999, #999999), url(/images/stripes.webp);
+  background-blend-mode:hue;
+}
+
+.content {
+  filter: saturate(0);
+}
+
+img.content {
+  filter: saturate(0);
+}
+
+/* NAVIGATION */
+
+table.clouds {
+  filter: saturate(0);
+}
