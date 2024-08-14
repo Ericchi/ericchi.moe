@@ -1,10 +1,9 @@
 ---
-date: 2017-04-17T11:01:21-04:00
-draft: false
 title: About
 type: mylayout
 layout: orange-color
 ---
+
 # Siti web che ho costruito
 
 - Un blog e altri progettini, persi tra un cambio di server e l'altro e mai ripristinati perché sistemarli e ri-upparli bene è un casino.

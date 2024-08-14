@@ -1,10 +1,9 @@
 ---
-date: 2017-04-17T11:01:21-04:00
-draft: false
 title: About
 type: mylayout
 layout: orange-color
 ---
+
 # Cose che ho tradotto
 
 - **Strawberry Panic** (nel 2019), il mio anime preferito. Potete trovarlo 
