@@ -1,8 +1,8 @@
 baseURL = "https://ericchi.moe"
-title = "Ericchi"
 theme = "ericchi-blue"
 identifier = "ericchi"
-defaultContentLanguage = "it"
+defaultContentLanguage = "en"
+title = "Ericchi"
 
 [markup]
   [markup.goldmark]
@@ -23,26 +23,61 @@ defaultContentLanguage = "it"
   stuff = ""
   webrings = "<a href='https://itawebring.altervista.org/' target='_blank'><img src='/images/banners/webrings/italia.png' alt='Italian webring'></a> <a href='https://allyratworld.com/cafe/rose' target='_blank'><img src='/images/banners/webrings/caferose_88x31melo.png' alt='Café Rosé'></a> <a href='https://yume-ring.neocities.org/' target='_blank'><img src='/images/banners/webrings/yume-ring.png' alt='Yume-Ring'></a>"
 
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    languageName = 'en'
+    weight = 1
+
+  [languages.it]
+    contentDir = 'content/it'
+    languageName = 'it'
+    weight = 2
+
 [menu]
-  [[menu.main]]
+  [[languages.it.menu.main]]
     identifier = "posts"
     name = "Scarabocchi"
     url = "/posts"
     weight = 10
 
-  [[menu.main]]
-    identifier = "quotes"
+  [[languages.it.menu.main]]
+    identifier = "toybox"
     name = "Giochi"
     url = "/toybox"
     weight = 20
 
-  [[menu.main]]
+  [[languages.it.menu.main]]
     identifier = "suggestions"
     name = "Consigli"
     url = "/suggestions"
     weight = 30
 
-  [[menu.main]]
+  [[languages.it.menu.main]]
+    identifier = "about"
+    name = "Ericchi"
+    url = "/about"
+    weight = 40
+
+  [[languages.en.menu.main]]
+    identifier = "posts"
+    name = "Scribbles"
+    url = "/posts"
+    weight = 10
+
+  [[languages.en.menu.main]]
+    identifier = "toybox"
+    name = "Toybox"
+    url = "/toybox"
+    weight = 20
+
+  [[languages.en.menu.main]]
+    identifier = "suggestions"
+    name = "Suggestions"
+    url = "/suggestions"
+    weight = 30
+
+  [[languages.en.menu.main]]
     identifier = "about"
     name = "Ericchi"
     url = "/about"
