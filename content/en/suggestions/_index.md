@@ -6,9 +6,9 @@ type: mylayout
 layout: pink-color
 ---
 
-# Suggestions
+# Bookmarks
 
-If you are here it means that you like what I like, so I'd like to thank you by suggesting you some of my favorite things!
+If you are here it means that you are interested what I like, so I'd like to thank you by suggesting you some of my favorite things!
 While I was making this section of the website I realized that I really have a lot of stuff that I could suggest, so I organized them in categories and the pages feel like... pages, and not an infinite roll of toilet paper.
 
 ## [Anime](anime/)
