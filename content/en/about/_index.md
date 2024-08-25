@@ -7,30 +7,30 @@ layout: orange-color
 ---
 # Ericchi
 
-Wow! Se sei qui vuol dire che ti interesso davvero tanto!
+Wow! If you are here it means that you are interested in me!
 
-In questa sezione c'è tutto ciò che mi riguarda personalmente: le mie creazioni, alcune informazioni in più su di me e tanto altro. Purtroppo la pagina è ancora incompleta, ma per ora ci sono le cose che ho fatto.
+In this section you'll find everything about me: my creations, some more info about me and more. Sadly, this page is still incomplete, but for now you can browse the stuff I made.
 
 &nbsp;
 
-Questa prima bozza della pagina è una sorta di portfolio personale.
+This page is still incomplete, but It's already useful as a portfolio, I think.
 
 &nbsp;
 
 <p class="center">ー ・ ー ・ ー ・ ー</p>
 
-## [Siti web che ho costruito](sites/)
+## [Websites I made](sites/)
 
 
-## [Cose che ho tradotto](translations/)
+## [Things I translated (Italian)](translations/)
 
 
-## [Cose che ho programmato](code/)
+## [Things I coded](code/)
 
 <p class="center">ー ・ ー ・ ー ・ ー</p>
 
 &nbsp;
 
-Ancora non basta? Hmm, va bene. Allora ecco anche una lista di frasi che mi sono uscite mentre stavo parlando con i miei amici:
+Not enough yet? Hmm. Ok, I also have a list of real quotes that come from dialogues between me and my friends, but sadly this page is and will always be in Italian because some of the quotes are impossible to translate or they'll lose their meaning:
 
-## [Citazioni](quotes/)
+## [Quotes (Italian)](quotes/)

@@ -295,7 +295,7 @@ a, a:link {
 }
 
 .site-nav li:nth-child(5) a:active {
-  color/: hsl(342, 100%, 97%);
+  color: hsl(342, 100%, 97%);
 }
 
 

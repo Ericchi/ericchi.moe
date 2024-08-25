@@ -4,9 +4,9 @@ type: mylayout
 layout: orange-color
 ---
 
-# Siti web che ho costruito
+# Websites I made
 
-- Un blog e altri progettini, persi tra un cambio di server e l'altro e mai ripristinati perché sistemarli e ri-upparli bene è un casino.
-- Ovviamente questo, ma mettere un link che punta qui sarebbe proprio ridondante.
-- Majotachi no Sub ([la versione del 2022](https://web.archive.org/web/20230415190507/https://majotachinosub.com/), precedente al restyle del 2023 che non ho fatto io).
-- [Ochakai Translations](https://www.ochakaitranslations.com), il sito del gruppo di traduzioni amatoriali che ho fondato insieme a un amico.
+- A blog and some minor projects that were lost when I migrated to new servers. I never restored them because hosting them correctly is a hassle.
+- This one, obviously, but putting here a link that points to this website would be redundant to say the least.
+- Majotachi no Sub ([the 2022 version](https://web.archive.org/web/20230415190507/https://majotachinosub.com/), before the redesign made by someone else.
+- [Ochakai Translations](https://www.ochakaitranslations.com), a website that hosts some fan-made italians translations. I built it with a friend of mine.
