@@ -31,6 +31,6 @@ Questa prima bozza della pagina è una sorta di portfolio personale.
 
 &nbsp;
 
-Not enough? Hmm, ok. Here's a list of quotes of real conversations happened between me and my friends (note: the following page will be displayed in Italian because some of them are impossible to translate).
+Ancora non basta? Hmm, va bene. Allora ecco anche una lista di frasi che mi sono uscite mentre stavo parlando con i miei amici:
 
-## [Quotes](quotes/)
+## [Citazioni](quotes/)

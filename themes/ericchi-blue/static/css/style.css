@@ -559,8 +559,11 @@ ruby rt {
 }
 
 :root {
+  /* Sizes */
   --mainbox-size: 46rem;
   --container-size: 70rem;
   --line-size: 28px;
   --image-size: 12em;
+  /* Colors */
+  --red-warning: #E3748F;
 }

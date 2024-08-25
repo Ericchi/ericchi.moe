@@ -4,7 +4,7 @@ date: 2013-02-28T12:00:00+02:00
 draft: false
 ---
 
-<p style="color: #E3748F"><b>Attenzione:</b> Non leggere questo scarabocchio prima o durante i pasti (o in caso di stomaco debole)!</p>
+<p style="color: var(--red-warning);"><b>Attenzione:</b> Non leggere questo scarabocchio prima o durante i pasti (o in caso di stomaco debole)!</p>
 
 &nbsp;
 
