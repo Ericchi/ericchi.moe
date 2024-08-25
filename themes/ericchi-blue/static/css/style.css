@@ -295,7 +295,7 @@ a, a:link {
 }
 
 .site-nav li:nth-child(5) a:active {
-  color/: hsl(342, 100%, 97%);
+  color: hsl(342, 100%, 97%);
 }
 
 
@@ -559,8 +559,11 @@ ruby rt {
 }
 
 :root {
+  /* Sizes */
   --mainbox-size: 46rem;
   --container-size: 70rem;
   --line-size: 28px;
   --image-size: 12em;
+  /* Colors */
+  --red-warning: #E3748F;
 }

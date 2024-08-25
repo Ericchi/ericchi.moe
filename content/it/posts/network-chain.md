@@ -13,9 +13,9 @@ Perché la gente usa le VPN?
 
 Perché le persone spendono soldi ogni mese pensando che le VPN mettano un cerotto sopra al cattivo uso che fanno di internet?
 
-Perché piuttosto che comprare una VPN, le persone non cambiano i DNS con quelli più sicuri con SSL di Mullvad o Quad9?
+Perché piuttosto che comprare una VPN, le persone non cambiano i DNS con quelli più sicuri con SSL?
 
-Perché se le persone vogliono più privacy non la smettono di usare Chrome o Opera e passano a LibreWolf, Brave, Ungoogled Chromium o Hardened Firefox?
+Perché se le persone vogliono più privacy non la smettono di usare Chrome o Opera e passano a browser più sicuri e rispettosi?
 
 Perché le persone si lamentano di Windows 11 ma non fanno il primo passo verso altri sistemi operativi, sperando invece che per qualche miracolo il loro computer la smetta di pugnalarle alle spalle con aggiornamenti terribili, obsolescenza programmata e funzioni non richieste che sono una peggio dell'altra?
 
@@ -37,7 +37,7 @@ Internet soffre quando consumate contenuti brainrot scorrendo tra feed infiniti 
 
 Internet soffre ogni volta che comprate un prodotto solo perché l'influencer di turno lo sponsorizza facendo credere che sia una panacea per tutti i mali.
 
-Internet soffre quando utilizzate il cadavere di quello che un tempo era davvero un buon sistema operativo ma che ora peggiora sempre di più e diventa sempre più invasivo perché Microsoft sa che la società non vuole imparare a usare sistemi diversi.
+Internet soffre quando utilizzate il cadavere di quello che un tempo era davvero un buon sistema operativo ma che ora peggiora sempre di più e diventa sempre più invasivo perché Microsoft ha un monopolio e sa che la società non vuole imparare a usare sistemi operativi migliori.
 
 In realtà, internet soffriva già per colpa di Internet Explorer, ma in confronto era solo un graffietto.
 

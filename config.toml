@@ -1,7 +1,7 @@
 baseURL = "https://ericchi.moe"
 theme = "ericchi-blue"
 identifier = "ericchi"
-defaultContentLanguage = "it"
+defaultContentLanguage = "en"
 title = "Ericchi"
 
 [markup]
