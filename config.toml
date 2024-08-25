@@ -43,13 +43,13 @@ title = "Ericchi"
 
   [[languages.it.menu.main]]
     identifier = "toybox"
-    name = "Giochi"
-    url = "/toybox"
+    name = "Giocattoli"
+    url = "/games"
     weight = 20
 
   [[languages.it.menu.main]]
     identifier = "suggestions"
-    name = "Consigli"
+    name = "Segnalibri"
     url = "/suggestions"
     weight = 30
 
@@ -68,12 +68,12 @@ title = "Ericchi"
   [[languages.en.menu.main]]
     identifier = "toybox"
     name = "Toybox"
-    url = "/toybox"
+    url = "/games"
     weight = 20
 
   [[languages.en.menu.main]]
     identifier = "suggestions"
-    name = "Suggestions"
+    name = "Bookmarks"
     url = "/suggestions"
     weight = 30
 
