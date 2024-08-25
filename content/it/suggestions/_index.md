@@ -12,7 +12,7 @@ Se hai cliccato qui vuol dire che ti interessa ciò che penso, perciò ti ringra
 
 ## [Anime](anime/)
 
-## Work in progress...
+## [Giochi da tavolo](tabletop/)
 
 ## [Siti web](sites/)
 
