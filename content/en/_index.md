@@ -10,7 +10,7 @@ Hello, Ericchi here!
 
 &nbsp;
 
-I welcome you to my virtual diary. This is my personal website and in the "[Doodles](posts/)" section I post whatever comes to my mind that I'd like to share with the world.
+I welcome you to my virtual diary. This is my personal website and in the "[Scribbles](posts/)" section I post whatever comes to my mind that I'd like to share with the world.
 
 &nbsp;
 
