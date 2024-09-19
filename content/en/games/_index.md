@@ -13,3 +13,6 @@ At the moment the toybox is empty, but it will soon be filled with... colored st
 &nbsp;
 
 I'm sorry. I created a pretty violet section that's empty. This should make me more motivated to complete it!
+|||||
+# TamaNOTchi
+<p class="center nopaper"><a href="https://tamanotchi.world/15294c"><img src="https://tamanotchi.world/i2/15294" alt="It's tamaNOTchi! Click to feed!"></a></p>
