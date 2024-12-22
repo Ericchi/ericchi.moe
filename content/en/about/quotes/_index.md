@@ -15,7 +15,7 @@ Questa è una lista delle mie preferite tra le frasi che sono saltate fuori dura
 &nbsp;
 
 «Il fatto che l'AI non riesce a fare bene le mani e piedi può essere un vantaggio. Se un feticista deve generare un'immagine di piedi, non è meglio se l'IA gliene fa una dove i piedi hanno 6 dita?»
-<p class="right">- Ericchi & Yoshitsune, 22 dicembre 2024, parlando delle IA stupide</p>
+<p class="right">- Ericchi, 22 dicembre 2024, parlando delle IA stupide con Yoshitsune</p>
 
 &nbsp;
 
