@@ -9,7 +9,6 @@ These websites are important to me because they made me feel something, or maybe
 
 ## Indie websites
 These websites are made by individuals that like to express themselves through their creations. Traveling through webrings I encountered some of them, but these are my favorite ones:
-- [Vivarism](https://vivarism.net/): A really cute website that use real scanned stickers to create a pleasing toy box aesthetic. The author really likes Sans from Undertale. The word "Vivarism" is invented by her and it means "to live a full life".
 - [plasticdino](https://plasticdino.neocities.org/): The rainbowy website of a girl who really like plastic dinosaurs. She also has [a shrine](https://plasticdino.neocities.org/dinoparks) with photos and images of them.
 
 ## Graveyard
