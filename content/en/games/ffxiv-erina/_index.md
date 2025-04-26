@@ -2,6 +2,7 @@
 title: Erina's biography
 type: mylayout
 layout: purple-color
+aliases: /ffxiv-erina
 ---
 
 # Erina's biography
