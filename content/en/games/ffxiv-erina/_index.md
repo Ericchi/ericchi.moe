@@ -10,7 +10,7 @@ Hi! I'm [Erina Yukine](https://eu.finalfantasyxiv.com/lodestone/character/492726
 
 &nbsp;
 
-I was born in Kugane from a wealthy family of merchants. My family had a lot of business partnerships with the people of Doma and I learned many of my dealing trickeries from the other merchants around me.
+I was born in Kugane from a wealthy family of merchants. My family had a lot of business partnerships with the people of Doma and I learned many of my dealing trickeries from the merchants around me.
 
 &nbsp;
 
