@@ -1,8 +1,9 @@
-baseURL = "https://ericchi.moe"
+baseURL = "https://ericchi.moe/"
 theme = "ericchi-blue"
 identifier = "ericchi"
 defaultContentLanguage = "en"
 title = "Ericchi"
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [markup]
   [markup.goldmark]

@@ -298,8 +298,6 @@ a, a:link {
   color: hsl(342, 100%, 97%);
 }
 
-
-
 .pixel {
   image-rendering: pixelated;
 }
@@ -501,14 +499,15 @@ time {
 
 .photo {
   box-shadow: 0em 0em 0.6em #4a5a7466;
-  padding: 0.5em;
-  margin-top: 0.5em;
+  padding: var(--image-padding);
+  margin-top: var(--image-padding);
   background-color: white;
 }
 
 .photo-right {
   rotate: 3deg;
   margin-right: -3.5em;
+  margin-left: 1em;
 }
 
 .image {
@@ -525,7 +524,7 @@ time {
   }
 
   .photo {
-    width: var(--image-size);
+    width: calc(var(--image-size) + var(--image-padding));
   }
 
   .photo-right {
@@ -566,4 +565,5 @@ ruby rt {
   --image-size: 12em;
   /* Colors */
   --red-warning: #E3748F;
+  --image-padding: 0.5em;
 }
