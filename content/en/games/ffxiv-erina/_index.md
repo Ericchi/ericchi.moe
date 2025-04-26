@@ -6,7 +6,7 @@ layout: purple-color
 
 # Erina's biography
 
-Hi! I'm [Erina Yukine](https://eu.finalfantasyxiv.com/lodestone/character/49272662/)!<div class="photo photo-right desktop-only-right-sidebar norecolor" style="background-color:#EFEFEF;"><img class="image content" alt="Portrait of Erina Yukine - Title Screen" src="portrait.webp"></div>
+Hi! I'm [Erina Yukine](https://eu.finalfantasyxiv.com/lodestone/character/49272662/)!<div class="photo photo-right desktop-only-right-sidebar norecolor" style="background-color:#EFEFEF;"><img class="image content" alt="Portrait of Erina Yukine" src="portrait.webp"></div>
 
 &nbsp;
 
@@ -18,7 +18,10 @@ Around the time I was 8 summers old my family decided to move to Ul'dah in Thana
 
 &nbsp;
 
+<div class="photo photo-left desktop-only-left-sidebar norecolor"><img class="image content" alt="Erina Yukine being happy" src="yay.webp"></div>
+
 Six years later, when I had an opportunity to travel alone, I went to **Gridania** and made it my home, with the intent to study with the best **conjurers** to become a **white mage** that could heal any type of illness and wounds! That's when I first heard the call of **Hydaelyn** and my adventure in **Eorzea** officially began.
+
 
 &nbsp;
 

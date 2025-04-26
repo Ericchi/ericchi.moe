@@ -502,6 +502,13 @@ time {
   padding: var(--image-padding);
   margin-top: var(--image-padding);
   background-color: white;
+  width: calc(var(--image-size) + var(--image-padding));
+}
+
+.photo-left {
+  rotate: -3deg;
+  margin-right: 1em;
+  margin-left: -3.5em;
 }
 
 .photo-right {
@@ -523,8 +530,23 @@ time {
     margin-right: auto;
   }
 
+  img.desktop-only-left-sidebar {
+    text-align: center;
+    display: block;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   .photo {
     width: calc(var(--image-size) + var(--image-padding));
+  }
+
+  .photo-left {
+    rotate: 3deg;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0.5em;
   }
 
   .photo-right {
@@ -538,6 +560,10 @@ time {
 @media only screen and (min-width: 60em){
   .desktop-only-right-sidebar {
     float: right;
+  }
+
+  .desktop-only-left-sidebar {
+    float: left;
   }
 }
 
