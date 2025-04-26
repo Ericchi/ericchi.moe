@@ -11,11 +11,11 @@ Hi! I'm [Erina Yukine](https://eu.finalfantasyxiv.com/lodestone/character/492726
 
 &nbsp;
 
-I was born in **Kugane** from a wealthy family of merchants. My family had a lot of business partnerships with the people of Doma and I learned many of my dealing trickeries from the merchants around me.
+I was born in **Kugane** from a wealthy family of merchants with business partnerships all around the world. I learned many dealing trickeries from them and I myself really enjoy partaking in the art of making the market.
 
 &nbsp;
 
-Around the time I was 8 summers old my family decided to move to Ul'dah in Thanalan to seek new business opportunities. That's where I first met the Sultana, **Nanamo Ul'Namo**. When I heard the news that she spared the life of a good warrior that was unjustly condemned, a flame sparked in me and I decided that I would have too protected the people I cared about. And so I started learning about magic, aether and how it could be used to help in battle.
+Around the time I was 8 summers old my family decided to move to **Ul'dah** in **Thanalan** to seek new business opportunities. That's where I first met the Sultana, **Nanamo Ul'Namo**. When I heard the news that she spared the life of a good warrior that was unjustly condemned she immediately became my role model. A flame sparked in me and I decided that I too would have protected the people I cared about. And so I started learning about magic, the aether and how it could be used to assist the ones in need for help.
 
 &nbsp;
 
