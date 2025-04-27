@@ -8,8 +8,8 @@ layout: purple-color
 
 # Toybox
 
-At the moment the toybox is empty, but it will soon be filled with... colored stuff, and I hope many more interesting things!
+Here I put interesting stuff about games and fun stuff to do!
 
 &nbsp;
 
-I'm sorry. I created a pretty violet section that's empty. This should make me more motivated to complete it!
+At the moment, the only thing that's here is the bio of my Final Fantasy XIV character, [Erina Yukine](/games/ffxiv/erinayukine) but I plan on expanding this section!
