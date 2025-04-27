@@ -7,7 +7,7 @@ aliases: /ffxiv-erina
 
 # Erina's biography
 
-Hi! I'm [Erina Yukine](https://eu.finalfantasyxiv.com/lodestone/character/49272662/)!<div class="photo photo-right desktop-only-right-sidebar norecolor" style="background-color:#EFEFEF;"><img class="image content" alt="Portrait of Erina Yukine" src="portrait.webp"></div>
+Hello!! I'm [Erina Yukine](https://eu.finalfantasyxiv.com/lodestone/character/49272662/)!<div class="photo photo-right desktop-only-right-sidebar norecolor" style="background-color:#EFEFEF;"><img class="image content" alt="Portrait of Erina Yukine" src="portrait.webp"></div>
 
 &nbsp;
 
