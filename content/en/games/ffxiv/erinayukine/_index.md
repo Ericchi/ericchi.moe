@@ -79,3 +79,7 @@ Thank you for taking the time to read about me. I hope we'll go along well in th
 &nbsp;
 
 **Hobbies:** Making and selling crafts, gathering plants, gardening
+
+&nbsp;
+
+**Best friends:** Khloe & Zhloe Aliapoh
