@@ -1,13 +1,13 @@
 ---
 title: Erina's biography
 type: mylayout
-layout: purple-color
+layout: purple-color-leftsidebar
 aliases: /ffxiv-erina
 ---
 
 # Erina's biography
 
-Hello!! I'm [Erina Yukine](https://eu.finalfantasyxiv.com/lodestone/character/49272662/)!<div class="photo photo-right desktop-only-right-sidebar norecolor" style="background-color:#EFEFEF;"><img class="image content" alt="Portrait of Erina Yukine" src="portrait.webp"></div>
+Hello!! I'm [Erina](https://eu.finalfantasyxiv.com/lodestone/character/49272662/)!<div class="photo photo-right desktop-only-right-sidebar norecolor" style="background-color:#EFEFEF;"><img class="image content" alt="Portrait of Erina Yukine" src="portrait.webp"></div>
 
 &nbsp;
 
@@ -31,3 +31,51 @@ I like to craft my wares, sell them, cultivate plants, also sell them, and final
 &nbsp;
 
 Thank you for taking the time to read about me. I hope we'll go along well in the world of **Final Fantasy XIV**!
+|||||
+# About Erina
+**Name:** Erina Yukine
+
+&nbsp;
+
+**Age:** 15 summers
+
+&nbsp;
+
+**Nameday:** 11th Sun of the 5th Umbral Moon
+
+&nbsp;
+
+**Likes:** Cute things, frills
+
+&nbsp;
+
+**Dislikes:** Gross men, mature stuff
+
+
+&nbsp;
+
+**Guardian:** Menphina, the Lover
+
+&nbsp;
+
+**Alignment:** Chaotic good
+
+&nbsp;
+
+**Homeland:** Kugane, Hingashi
+
+&nbsp;
+
+**Lives in:** Gridania, The Black Shroud
+
+&nbsp;
+
+**Favorite food:** Smoked Chicken
+
+&nbsp;
+
+**Favorite beverage:** Pixieberry Tea
+
+&nbsp;
+
+**Hobbies:** Making and selling crafts, gathering plants, gardening

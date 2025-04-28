@@ -1,0 +1,4 @@
+        {{ $cols := split .Content "|||||" }}
+       <div class="paper color content">
+            {{ index $cols 0 | safe.HTML }}
+        </div>

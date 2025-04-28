@@ -18,6 +18,10 @@ a {
   background-blend-mode: hue;
 }
 
+.color {
+  filter: hue-rotate(50deg);
+}
+
 .content {
   filter: hue-rotate(50deg);
 }

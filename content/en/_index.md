@@ -1,7 +1,7 @@
 ---
-title: "Home"
+title: Home
 type: mylayout
-layout: "teal-color"
+layout: teal-color-rightsidebar
 ---
 
 # Gokigenyō!
@@ -31,7 +31,7 @@ I like everything that's magic, like majokkos and I think that computers are gre
 In my free time I like to watch anime, play videogames and when I want to be productive I study the language of rising sun. My favorite videogames are RPGs and sometimes I play [Pokémon (both VGC and TCG)](https://www.pokemon.com/play-pokemon/) competitively!
 |||||
 # Status
-<div id="statuscafe" class="underline"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div><script src="https://status.cafe/current-status.js?name=ericchi" defer></script>
+<div id="statuscafe" class="underline"><div id="statuscafe-username"></div><div id="statuscafe-content" class="norecolor"></div></div><script src="https://status.cafe/current-status.js?name=ericchi" defer></script>
 
 # Friend sites
 
