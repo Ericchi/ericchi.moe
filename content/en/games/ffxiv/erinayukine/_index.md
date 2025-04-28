@@ -7,21 +7,21 @@ aliases: /ffxiv-erina
 
 # Erina's biography
 
-Hello!! I'm [Erina](https://eu.finalfantasyxiv.com/lodestone/character/49272662/)!<div class="photo photo-right desktop-only-right-sidebar norecolor" style="background-color:#EFEFEF;"><img class="image content" alt="Portrait of Erina Yukine" src="portrait.webp"></div>
+Hello!! I'm Erina!<div class="photo photo-right desktop-only-right-sidebar norecolor" style="background-color:#EFEFEF;"><img class="image content" alt="Portrait of Erina Yukine" src="portrait.webp"></div>
 
 &nbsp;
 
-I was born in **Kugane** from a wealthy family of merchants with business partnerships all around the world. I learned many dealing trickeries from them and I myself really enjoy partaking in the art of making the market.
+I was born in [Kugane](https://finalfantasy.fandom.com/wiki/Kugane) from a wealthy family of merchants with business partnerships all around the world. I learned many dealing trickeries from them and I myself really enjoy partaking in the art of making the market.
 
 &nbsp;
 
-Around the time I was 8 summers old my family decided to move to **Ul'dah** in **Thanalan** to seek new business opportunities. That's where I first met the Sultana, **Nanamo Ul'Namo**. When I heard the news that she spared the life of a good warrior that was unjustly condemned, she immediately became my role model. A flame sparked in me and I decided that I too would have protected the people I cared about. And so I started learning about magic, the aether and how it could be used to assist the ones in need for help.
+Around the time I was 8 summers old my family decided to move to [Ul'dah](https://finalfantasy.fandom.com/wiki/Ul'dah) in [Thanalan](https://finalfantasy.fandom.com/wiki/Thanalan) to seek new business opportunities. That's where I first met the Sultana, [Nanamo Ul'Namo](https://finalfantasy.fandom.com/wiki/Nanamo_Ul_Namo). When I heard the news that she spared the life of a good warrior that was unjustly condemned, she immediately became my role model. A flame sparked in me and I decided that I too would have protected the people I cared about. And so I started learning about magic, the aether and how it could be used to assist the ones in need for help.
 
 &nbsp;
 
 <div class="photo photo-left desktop-only-left-sidebar norecolor"><img class="image content" alt="Erina Yukine being happy" src="yay.webp"></div>
 
-Six years later, when I had an opportunity to travel alone, I went to **Gridania** and made it my home, with the intent to study with the best **conjurers** to become a **white mage** that could heal any type of illness and wounds! That's when I first heard the call of **Hydaelyn** and my adventure in **Eorzea** officially began.
+Six years later, when I had an opportunity to travel alone, I went to [Gridania](https://finalfantasy.fandom.com/wiki/Gridania) and made it my home, with the intent to study with the best [conjurers](https://ffxiv.consolegameswiki.com/wiki/Conjurer) to become a [white mage](https://ffxiv.consolegameswiki.com/wiki/White_mage) that could heal any type of illness and wounds! That's when I first heard the call of **Hydaelyn** and my adventure in [Eorzea](https://finalfantasy.fandom.com/wiki/Eorzea) officially began.
 
 
 &nbsp;
@@ -33,7 +33,7 @@ I like to craft my wares, sell them, cultivate plants, also sell them, and final
 Thank you for taking the time to read about me. I hope we'll go along well in the world of **Final Fantasy XIV**!
 |||||
 # About Erina
-**Name:** Erina Yukine
+**Name:** [Erina Yukine](https://eu.finalfantasyxiv.com/lodestone/character/49272662/)
 
 &nbsp;
 
@@ -54,7 +54,7 @@ Thank you for taking the time to read about me. I hope we'll go along well in th
 
 &nbsp;
 
-**Guardian:** Menphina, the Lover
+**Guardian:** [Menphina, the Lover](https://finalfantasy.fandom.com/wiki/Menphina)
 
 &nbsp;
 
@@ -62,19 +62,19 @@ Thank you for taking the time to read about me. I hope we'll go along well in th
 
 &nbsp;
 
-**Homeland:** Kugane, Hingashi
+**Homeland:** [Kugane](https://finalfantasy.fandom.com/wiki/Kugane), [Hingashi](https://finalfantasy.fandom.com/wiki/Hingashi)
 
 &nbsp;
 
-**Lives in:** Gridania, The Black Shroud
+**Lives in:** [Gridania](https://finalfantasy.fandom.com/wiki/Gridania), [The Black Shroud](https://finalfantasy.fandom.com/wiki/Black_Shroud)
 
 &nbsp;
 
-**Favorite food:** Smoked Chicken
+**Favorite food:** [Smoked Chicken](https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/ee851a0fcfc/)
 
 &nbsp;
 
-**Favorite beverage:** Pixieberry Tea
+**Favorite beverage:** [Pixieberry Tea](https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/8dac162a78d/)
 
 &nbsp;
 
@@ -82,4 +82,4 @@ Thank you for taking the time to read about me. I hope we'll go along well in th
 
 &nbsp;
 
-**Best friends:** Khloe & Zhloe Aliapoh
+**Best friends:** [Khloe](https://finalfantasy.fandom.com/wiki/Khloe_Aliapoh) & [Zhloe Aliapoh](https://finalfantasy.fandom.com/wiki/Zhloe_Aliapoh)
