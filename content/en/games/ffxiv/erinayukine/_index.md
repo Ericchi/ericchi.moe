@@ -15,7 +15,7 @@ I was born in [Kugane](https://finalfantasy.fandom.com/wiki/Kugane) from a wealt
 
 &nbsp;
 
-Around the time I was 8 summers old my family decided to move to [Ul'dah](https://finalfantasy.fandom.com/wiki/Ul'dah) in [Thanalan](https://finalfantasy.fandom.com/wiki/Thanalan) to seek new business opportunities. That's where I first met the Sultana, [Nanamo Ul'Namo](https://finalfantasy.fandom.com/wiki/Nanamo_Ul_Namo). When I heard the news that she spared the life of a good warrior that was unjustly condemned, she immediately became my role model. A flame sparked in me and I decided that I too would have protected the people I cared about. And so I started learning about magic, the aether and how it could be used to assist the ones in need for help.
+Around the time I was 8 summers old my family decided to move to [Ul'dah](https://finalfantasy.fandom.com/wiki/Ul'dah) in [Thanalan](https://finalfantasy.fandom.com/wiki/Thanalan) to seek new business opportunities. That's where I first met the Sultana, **Nanamo Ul'Namo**. When I heard the news that she spared the life of a good warrior that was unjustly condemned, she immediately became my role model. A flame sparked in me and I decided that I too would have protected the people I cared about. And so I started learning about magic, the aether and how it could be used to assist the ones in need for help.
 
 &nbsp;
 
