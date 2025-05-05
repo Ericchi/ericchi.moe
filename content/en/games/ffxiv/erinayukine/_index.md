@@ -70,6 +70,10 @@ Thank you for taking the time to read about me. I hope we'll go along well in th
 
 &nbsp;
 
+**Afraid of:** Not being enough, [Doom](https://ffxiv.consolegameswiki.com/wiki/Doom)
+
+**Not afraid of:** [Calcabrina](https://finalfantasy.fandom.com/wiki/Calco_and_Brina)
+
 **Favorite food:** [Smoked Chicken](https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/ee851a0fcfc/)
 
 &nbsp;
