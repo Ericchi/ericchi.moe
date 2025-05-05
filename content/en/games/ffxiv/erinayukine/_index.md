@@ -78,7 +78,7 @@ Thank you for taking the time to read about me. I hope we'll go along well in th
 
 &nbsp;
 
-**Favorite food:** [Smoked Chicken](https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/ee851a0fcfc/)
+**Favorite food:** [Smoked Chicken](https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/ee851a0fcfc/), [Pizza](https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/bc2468db942)
 
 &nbsp;
 
