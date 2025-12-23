@@ -10,19 +10,18 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [markup.goldmark.renderer]
       unsafe = true
 
-[social]
-  telegram = "https://t.me/EricchiYukia"
-  youtube = "https://www.youtube.com/channel/UCG11xx7bQcbXB4ThsgsYs7w"
-  github = "https://github.com/Ericchi"
-  twitch = "https://twitch.tv/EricchiYukia"
-  myanimelist = "https://myanimelist.net/profile/EricchiYukia"
-  tumblr = "https://ericchiyukia.tumblr.com/"
-
 [params]
   favicon = "/images/favicon.gif"
   friendsites = ""
   stuff = ""
   webrings = "<a href='https://itawebring.altervista.org/' target='_blank'><img src='/images/banners/webrings/italia.png' alt='Italian webring'></a> <a href='https://allyratworld.com/cafe/rose' target='_blank'><img src='/images/banners/webrings/caferose_88x31melo.png' alt='Café Rosé'></a> <a href='https://yume-ring.neocities.org/' target='_blank'><img src='/images/banners/webrings/yume-ring.png' alt='Yume-Ring'></a>"
+  [socials]
+    telegram = "https://t.me/EricchiYukia"
+    youtube = "https://www.youtube.com/channel/UCG11xx7bQcbXB4ThsgsYs7w"
+    github = "https://github.com/Ericchi"
+    twitch = "https://twitch.tv/EricchiYukia"
+    myanimelist = "https://myanimelist.net/profile/EricchiYukia"
+    tumblr = "https://ericchiyukia.tumblr.com/"
 
 [languages]
   [languages.en]

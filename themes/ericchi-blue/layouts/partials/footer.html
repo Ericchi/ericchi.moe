@@ -10,18 +10,22 @@
 						</table>
 						<div class="footer-afterimage">
 							<br>
-							<a href="{{- .Site.Social.telegram -}}" target="_blank"><img src="/images/telegram.webp" alt="Telegram" onerror='this.onerror = null; this.src="/images/telegram.png"'></a>
-							<a href="{{- .Site.Social.youtube -}}" target="_blank"><img src="/images/youtube.webp" alt="YouTube" onerror='this.onerror = null; this.src="/images/youtube.png"'></a>
-							<a href="{{- .Site.Social.twitch -}}" target="_blank"><img src="/images/twitch.webp" alt="Twitch" onerror='this.onerror = null; this.src="/images/twitch.png"'></a>
-							<a href="{{- .Site.Social.tumblr -}}" target="_blank"><img src="/images/tumblr.webp" alt="Tumblr" onerror='this.onerror = null; this.src="/images/tumblr.png"'></a>
-							<a href="{{- .Site.Social.github -}}" target="_blank"><img src="/images/github.webp" alt="GitHub" onerror='this.onerror = null; this.src="/images/github.png"'></a>
-							<a href="{{- .Site.Social.myanimelist -}}" target="_blank"><img src="/images/myanimelist.webp" alt="MyAnimeList" onerror='this.onerror = null; this.src="/images/myanimelist.png"'></a>
+							<a href="{{- .Site.Params.Social.telegram -}}" target="_blank"><img src="/images/telegram.webp" alt="Telegram" onerror='this.onerror = null; this.src="/images/telegram.png"'></a>
+							<a href="{{- .Site.Params.Social.youtube -}}" target="_blank"><img src="/images/youtube.webp" alt="YouTube" onerror='this.onerror = null; this.src="/images/youtube.png"'></a>
+							<a href="{{- .Site.Params.Social.twitch -}}" target="_blank"><img src="/images/twitch.webp" alt="Twitch" onerror='this.onerror = null; this.src="/images/twitch.png"'></a>
+							<a href="{{- .Site.Params.Social.tumblr -}}" target="_blank"><img src="/images/tumblr.webp" alt="Tumblr" onerror='this.onerror = null; this.src="/images/tumblr.png"'></a>
+							<a href="{{- .Site.Params.Social.github -}}" target="_blank"><img src="/images/github.webp" alt="GitHub" onerror='this.onerror = null; this.src="/images/github.png"'></a>
+							<a href="{{- .Site.Params.Social.myanimelist -}}" target="_blank"><img src="/images/myanimelist.webp" alt="MyAnimeList" onerror='this.onerror = null; this.src="/images/myanimelist.png"'></a>
 							<br>
 							<br>
 							<p class="footersection">Webrings:</p>
 							<div id="banners-webrings" class="bannerini">{{ .Site.Params.webrings | safeHTML }}</div>
 							<br>
+							<br>
 							<span class="footersection"><span class="copyleft">&copy;</span>opyleft 2022-{{ dateFormat "2006" now }} {{ .Site.Title }}</span>
+							<br>
+							<br>
+							<p class="footersection-small"><a href="aikinshi">AI LLMs are not welcome here</a></p>
 							<br>
 							<br>
 						</div>

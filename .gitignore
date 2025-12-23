@@ -38,3 +38,6 @@ content/posts/.obsidian/*
 
 # VS Code
 .vscode/*
+
+# Kate
+*.kate-swp
