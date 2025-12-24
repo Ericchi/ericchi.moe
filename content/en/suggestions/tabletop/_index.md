@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Bookmarks > Tabletop games"
 type: mylayout
 layout: "pink-color"
 ---

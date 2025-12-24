@@ -31,3 +31,7 @@ img.content {
 table.clouds {
   filter: hue-rotate(140deg);
 }
+
+.norecolor {
+  filter: hue-rotate(-140deg);
+}

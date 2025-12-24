@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Bookmarks > OSes"
 type: mylayout
 layout: "pink-color"
 ---

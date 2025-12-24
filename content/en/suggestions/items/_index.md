@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Bookmarks > Items"
 type: mylayout
 layout: "pink-color"
 ---

@@ -34,7 +34,8 @@ body {
   position: relative;
   color: #333;
   font-size: 20px;
-  line-height: 1.273;
+  /*line-height: 1.273;*/
+  line-height: 28px;
   padding: 0;
   margin: 0;
   overflow-x:hidden;
@@ -103,20 +104,21 @@ p, .underline {
   margin-top: -3px;
   margin-bottom: 0px;
   margin-left: 0px;
+  line-height: 28px;
 }
 
 main li {
+  background: repeating-linear-gradient(#ffffff00, #ffffff00 26px, white 26px, #e2e2e2 27px, #e2e2e2 28px);
   font-family: 'Dudu Calligraphy q', 'ZenKurenaido-Regular';
   margin-top: -3px;
+  line-height: 28px;
 }
 
 .paper ul {
-  background: repeating-linear-gradient(#ffffff00, #ffffff00 26px, white 26px, #e2e2e2 27px, #e2e2e2 28px);
   background-position-y: -32px;
   font-family: 'Yomogi-SymbolsOnly';
   list-style-type: "・ ";
   margin-top: 0;
-  padding-top: var(--line-size);
   padding-top: 0;
 }
 
@@ -149,6 +151,7 @@ img {
   margin-top:0.5rem;
   margin-bottom:0.2rem;
   color: #31A0DD;
+  line-height: 49px;
 }
 
 .paper h2 {
@@ -158,10 +161,13 @@ img {
   font-family: 'HelvetiHand', 'ZenKurenaido-Regular';
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
+  line-height: 42px;
 }
 
 .paper h3 {
-  line-height: 1.2;
+  background: repeating-linear-gradient(#ffffff00, #ffffff00 32px, white 32px, #e2e2e2 33px, #e2e2e2 34px);
+  background-position-y: -6px;
+  line-height: 34px;
   margin-bottom: 0;
   margin-top: 0;
 }
@@ -232,6 +238,11 @@ p.footer {
   font-family: 'HelvetiHand', 'ZenKurenaido-Regular';
   margin-top:0;
   margin-bottom:0;
+  background: transparent;
+}
+
+.footersection-small {
+  background: transparent;
 }
 
 a, a:link {
@@ -372,6 +383,7 @@ li.main-menu {
   list-style: none;
   margin: 0;
   padding: 0;
+  line-height: 1.2;
 }
 
 li:before {
@@ -508,7 +520,7 @@ time {
   padding: var(--image-padding);
   margin-top: var(--image-padding);
   background-color: white;
-  width: calc(var(--image-size) + var(--image-padding));
+  /*width: calc(var(--image-size) + var(--image-padding));*/
 }
 
 .photo-left {

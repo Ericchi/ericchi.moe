@@ -1,5 +1,5 @@
 ---
-title: Erina's biography
+title: Toybox > FFXIV > Erina's biography
 type: mylayout
 layout: purple-color-leftsidebar
 aliases: /ffxiv-erina
