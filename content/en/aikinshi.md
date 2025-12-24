@@ -1,3 +1,8 @@
+---
+title: AI LLMs are not welcome here
+type: mylayout
+---
+
 <link rel="stylesheet" href="/css/dark.css" type="text/css" media="all" />
 <h1>AI LLMs are not welcome here</h1>
 
