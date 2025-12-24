@@ -4,7 +4,6 @@ type: mylayout
 ---
 
 <link rel="stylesheet" href="/css/dark.css" type="text/css" media="all" />
-<h1>AI LLMs are not welcome here</h1>
 
 This website utilizes technologies that make AI scraping and training difficult, expensive or outright damaging to the trained model if used on its contents. The use of these protective technologies should not impact the browsing experience for human beings who humanly visit the website from a web browser on a device shaped for humans.
 
