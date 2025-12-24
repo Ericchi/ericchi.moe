@@ -17,7 +17,7 @@ I don't think this one comes as a surprise. This is my absolute favorite anime. 
 <div class="photo photo-left desktop-only-left-sidebar norecolor"><img class="image" alt="Mahou Shoujo Madoka★Magica" src="madomagi.webp"></div>
 
 ### [Mahou Shoujo Madoka★Magica](https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka★Magica)
-I adore magical girls, in particular when the majokko anime genre gets totally subverted, like in this case where there's something that's just not right in the process of being able to become one. Certain delicate issues are dealt with perfectly and both the graphic style and the music are just sublime.<br><br>
+I adore magical girls, in particular when the majokko anime genre gets totally subverted, like in this case where there's something that's just not right in the process of being able to become one. Certain delicate issues between the characters are treated in a spectacular way and both the graphic style of the enemies and the music themes are just sublime.<br><br>
 
 <div class="photo photo-right desktop-only-right-sidebar norecolor"><img class="image" alt="Artiswitch" src="artiswitch.webp"></div>
 
